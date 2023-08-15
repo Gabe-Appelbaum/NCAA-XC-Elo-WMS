@@ -1,0 +1,761 @@
+```{r}
+library(dplyr)
+library(elo)
+library(tidyverse)
+```
+
+Acc meet
+```{r}
+#Load in data
+full <- read.csv("2018 elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 acc mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+big 12
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 big 12 mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+big east
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 big east mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+big ten
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 big ten mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+mountain west
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 mountain west mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+pac 12
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 pac 12 mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+sec
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 sec mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+wcc
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 wcc mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+OVC
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 ovc mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+Southern
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 southern conference mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+Big south
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 big south mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```
+
+Big sky
+```{r}
+#Load in data
+full <- read.csv("2018 post conference elo.csv")
+full <- subset (full, select = -X)
+x <- read.csv("2018 conference meets/2018 conference mens individual/2018 big sky mens individual.csv")
+
+#run the joins
+df <- list(x, full)
+#merge all data frames in list
+df <- df %>% reduce(left_join, by= c('NAME', 'TEAM'))
+
+#set new runners elos to 1000
+df[is.na(df)] = 1000
+
+#create a column for temporary storage of the elo update
+df$update <- 0
+
+
+for (i in df$PL){ # loop through the data frame
+  
+  y = i # create a second number to isolate into pairs of racers
+  
+  repeat{
+    if(y >= nrow(df)) {break} # exit if the second runner number gets beyond the dataframe
+    
+    y = y + 1 # sets the y to be the next runner
+    
+    # edit the update column, its the elo update from the pair, multiplied by whats essentially the percentile
+    # 1 - place in the race, divided by nrow, rounded. So finishing first is 0.99, finishing last is just 0
+    
+    df[i,'update'] <- df[i,'update'] + (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[y, 'PL']/nrow(df), digits = 2)))
+    
+    df[y,'update'] <- df[y,'update'] - (elo.update(c(1), c(df[i,'elo']), c(df[y,'elo']), k = 5) * 
+                                          (1 - round(df[i, 'PL']/nrow(df), digits = 2)))
+    
+  }
+}
+
+#this just means the update is slightly less drastic
+
+df$elo <- df$elo + df$update
+
+
+# cut the df down to just name, team, elo
+df2 <- df %>% select(NAME, TEAM, elo)
+
+#now join the update back onto the main one
+new_full <- list(full, df2)
+#merge all data frames in list
+new_full <- new_full %>% reduce(full_join, by= c('NAME', 'TEAM'))
+
+# now replace the old elo's with the greater ones
+new_full[is.na(new_full)] = 0
+new_full$elo <- ifelse(new_full$elo.y > new_full$elo.x, new_full$elo.y, new_full$elo.x)
+
+#then cut it back down to just name, team, elo
+new_full <- new_full %>% select(NAME, TEAM, elo)
+
+write.csv(new_full,"2018 post conference elo.csv")
+```

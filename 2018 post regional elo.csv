@@ -1,0 +1,2718 @@
+Elo rank,NAME,TEAM,elo
+1,Tyler Day,Northern Arizona,1469.468443
+2,James Sugira,Eastern Kentucky,1460.677315
+3,Lawrence Kipkoech,Campbell,1452.373042
+4,Aaron Templeton,Furman,1448.928173
+5,Amon Kemboi,Campbell,1448.116926
+6,Tanner Anderson,Washington,1429.714452
+7,Aidan Tooker,Syracuse,1428.698599
+8,Jaret Carpenter,Purdue,1424.013031
+9,Joe Klecker,Colorado,1423.929378
+10,Brent Demarest,Virginia,1422.424192
+11,Nick Hauger,Portland,1421.538708
+12,Peter Seufer,Virginia Tech,1420.354395
+13,Matthew Baxter,Northern Arizona,1419.059337
+14,Yared Nuguse,Notre Dame,1410.347812
+15,Peter Lomong,Northern Arizona,1406.355469
+16,Conner Mantz,BYU,1405.231755
+17,Alex Ostberg,Stanford,1403.190243
+18,Chris Olley,San Francisco,1402.665613
+19,Carlos Villarreal,Arizona,1399.735685
+20,Talon Hull,Washington,1398.687652
+21,Grant Fisher,Stanford,1398.657066
+22,Rory Linkletter,BYU,1398.127001
+23,Connor McMillan,BYU,1389.459935
+24,Aidan Reed,Southern Utah,1386.995713
+25,Paul Roberts,Wyoming,1384.303223
+26,Casey Comber,Villanova,1383.4499
+27,Morgan McDonald,Wisconsin,1381.759031
+28,Kyle Mau,Indiana,1380.345195
+29,Eric Hamer,Colorado St.,1377.378801
+30,Alek Parsons,Stanford,1375.369768
+31,Edwin Kurgat,Iowa State,1373.755706
+32,Emmanuel Cheboson,Louisville,1367.069088
+33,Ryan Forsyth,Colorado,1365.029834
+34,John Dressel,Colorado,1363.179651
+35,Alfred Chelanga,Alabama,1362.919045
+36,Zach Facioni,Wake Forest,1357.984459
+37,Blaise Ferro,Northern Arizona,1353.647546
+38,Oliver Hoare,Wisconsin,1352.981184
+39,Azaria Kirwa,Liberty,1349.404843
+40,Ryan Adams,Furman,1348.821624
+41,Waleed Suliman,Ole Miss,1348.183092
+42,Andrew Marston,Villanova,1347.594066
+43,Colin Burke,UCLA,1346.836647
+44,AJ Ernst,Virginia,1345.716749
+45,Tibebu Proctor,Washington,1345.008271
+46,Clayson Shumway,BYU,1343.241126
+47,Joe Dragon,Syracuse,1342.985856
+48,Luis Grijalva,Northern Arizona,1340.412121
+49,Farah Abdulkarim,Ole Miss,1338.343008
+50,Conor Lundy,Princeton,1337.823871
+51,Jaime Romo,Eastern Kentucky,1334.895294
+52,George Kusche,Nebraska,1334.004569
+53,Ehab El-Sandali,Iona,1333.195785
+54,Garrett Corcoran,California,1332.495882
+55,Geordie Beamish,Northern Arizona,1331.032401
+56,Hugo Milner,Harvard,1330.147046
+57,Gilbert Boit,Arkansas,1329.16131
+58,Addison DeHaven,Boise State,1327.463079
+59,Jacob McLeod,Belmont,1327.391094
+60,Blake Haney,Oregon,1326.791259
+61,Ian Shanklin,North Carolina St.,1324.552561
+62,James Mwaura,Gonzaga,1323.893192
+63,Curt Eckstein,Purdue,1322.823729
+64,Carson Hume,Colorado St.,1321.632537
+65,Nicholas Wareham,Georgetown,1321.091778
+66,Ashenafi Hatte,Oklahoma State,1319.745354
+67,Matt Grossman,Princeton,1319.376429
+68,Mickey Davey,Air Force,1318.020519
+69,Olin Hacker,Wisconsin,1317.480108
+70,Kieran Tuntivate,Harvard,1316.570167
+71,Cole Rockhold,Colorado St.,1316.56787
+72,Danny Kilrea,Notre Dame,1311.657803
+73,Jack Rowe,San Francisco,1308.086182
+74,Cooper Teare,Oregon,1307.007552
+75,Erick Rotich,Eastern Kentucky,1305.960105
+76,Gannon Willcutts,Princeton,1305.416774
+77,Jack Van Scoter,Georgetown,1303.759074
+78,Ari Klau,Virginia,1301.833398
+79,Koby Pederson,Loyola Marymount,1300.109623
+80,Patrick Begley,Connecticut,1297.727472
+81,Miler Haller,Boise State,1297.463412
+82,Paul Hogan,UMass Lowell,1296.731446
+83,Cameron Griffith,Arkansas,1296.364527
+84,Tai Dinger,Stanford,1292.41886
+85,Dominic Hockenbury,Syracuse,1290.23373
+86,Jacob Heslington,BYU,1287.887222
+87,Chandler Teigen,Washington St.,1286.993343
+88,Michael Somers,Portland,1286.827152
+89,Jamie Crowe,Lamar,1285.858741
+90,Mark Robertson,Ole Miss,1284.13119
+91,Jamie Dee,Iona,1283.437248
+92,Fred Huxham,Washington,1283.080642
+93,Jose Pina,San Jose St.,1282.738084
+94,Christian Ricketts,Southern Utah,1279.629485
+95,Jackson Mestler,Oregon,1279.248036
+96,Zach Long,Tennessee,1278.525474
+97,Kyle Mattes,Illinois State,1278.482744
+98,Nathan Mylenek,Iowa,1278.010552
+99,Andrew Alexander,Notre Dame,1276.506819
+100,Christopher Henry,Wyoming,1276.059872
+101,Ben Eidenschink,Wisconsin,1275.203135
+102,Andrew Jordan,Iowa State,1274.210499
+103,Garrett Reynolds,UCLA,1271.357417
+104,James West,Oregon,1270.918145
+105,Daniel Bernal,Furman,1270.163943
+106,Roman Ollar,Army West Point,1269.62291
+107,Joe Bistritz,North Carolina St.,1269.325433
+108,Tom Nobles,Charlotte,1268.518112
+109,Kristian Holm Jensen,Temple,1267.940657
+110,Noah Affolder,Syracuse,1267.118894
+111,Quinn Cooney,Dartmouth,1266.30023
+112,Kyle Mueller,Monmouth,1262.214954
+113,Kevin James,Syracuse,1261.811713
+114,Clayton Young,BYU,1261.095497
+115,Alex Corbett,Virginia,1261.080473
+116,Colin Abert,Penn State,1260.657434
+117,Edwin Rutto,North Carolina St.,1260.203126
+118,Dan Curts,Iowa State,1259.240079
+119,Ben Kendell,Detroit Mercy,1258.560111
+120,Justine Kiprotich,Michigan State,1257.64742
+121,John Aho,Michigan,1257.560871
+122,Caleb Pottorff,Florida State,1253.478934
+123,Ben Young,Kentucky,1253.340411
+124,Isai Rodriguez,Oklahoma State,1253.193246
+125,Mario Garcia Romo,Ole Miss,1252.943024
+126,Ryan Raff,Northern Arizona,1251.988963
+127,Akis Medrano,Indiana State,1250.973106
+128,Cordon Louco,Duquesne,1250.410219
+129,Eduardo Herrera,Colorado,1248.797945
+130,Elijah Armstrong,Boise State,1248.524743
+131,Elijah Moskowitz,North Carolina St.,1247.486665
+132,Emmanuel Rotich,Tulane,1243.168141
+133,Logan Orndorf,Portland,1241.150288
+134,Shuaib Aljabaly,Wisconsin,1239.236135
+135,Charlie Hunter,Oregon,1237.18517
+136,Isaac Harding,Michigan,1236.166766
+137,Anthony Williams,Notre Dame,1234.679892
+138,Trevor Siniscalchi,Air Force,1234.393053
+139,Ben Varghese,East Tenn. St.,1233.839055
+140,David Corrales,Eastern Kentucky,1233.757611
+141,Euan Makepeace,Butler,1233.400635
+142,Caleb Covell,Buffalo,1231.857768
+143,Noah Schutte,Portland,1231.692116
+144,Mark Freyhof,Nebraska,1231.172753
+145,Mikey Singer,Army West Point,1230.77291
+146,Simon Smith,Syracuse,1230.432513
+147,Harry Ewing,Wyoming,1229.977964
+148,Callum Bolger,Stanford,1229.545935
+149,Alexander Seal,Boston U.,1229.287443
+150,Michael Coccia,Ole Miss,1229.027089
+151,Alec Basten,Minnesota,1228.825383
+152,Ryan Murphy,Arkansas,1228.692912
+153,Gilbert Kigen,Alabama,1227.05624
+154,Liam Dee,Iona,1226.963295
+155,Gavin Gaynor,North Carolina St.,1226.436423
+156,Cade Bethmann,Ole Miss,1226.355451
+157,Robert Brandt,Unattached,1226.110842
+158,Kevin Lynch,Utah Valley,1225.330406
+159,Tyler Italiano,Columbia,1224.639553
+160,Jordan Rowe,Lamar,1223.98814
+161,Meshack Kipchirchir,Hofstra,1223.405513
+162,Dustin Horter,Indiana,1222.985549
+163,Brian Schulz,UC Santa Barbara,1222.346684
+164,Charlie O'Donovan,Villanova,1222.106594
+165,Caleb Webb,Portland,1221.71739
+166,Sydney Gidabuday,Adams State,1221.160842
+167,Kieran Wood,Missouri,1220.997044
+168,Spencer Danielson,Dayton,1220.133551
+169,Jeremy Spiezio,Princeton,1219.910582
+170,Anthony Russo,Penn,1219.612073
+171,Sean Burke,Boston College,1219.518424
+172,Emmanuel Roudolff-Levisse,Portland,1219.383113
+173,Brody Smith,Purdue,1218.658931
+174,Yusuke Uchikoshi,Boise State,1217.63124
+175,Matthew Thomas,Michigan State,1216.930531
+176,Adriaan Wildschutt,Coastal Carolina,1216.693548
+177,Jack O'Leary,Iona,1216.54791
+178,Ahmed Muhumed,Boise State,1215.588917
+179,Evan Jameson,Cal Poly,1212.174863
+180,Benjamin Petrella,Army West Point,1211.84791
+181,Dan Romano,Northeastern,1211.465033
+182,Ryan Sullivan,Youngstown St.,1211.331258
+183,Aaron Bienenfeld,Cincinnati,1210.185111
+184,Andrew Kent,Georgia Tech,1210.170438
+185,Andy Snyder,Washington,1209.741456
+186,D.J. Principe,Stanford,1208.892081
+187,Miles Clikeman,Richmond,1206.686875
+188,Louis Corgliano,Temple,1206.383632
+189,Silas Kipngetich,Auburn,1205.181884
+190,Zach Seiger,Temple,1203.846629
+191,Randy Neish,Virginia,1203.3712
+192,Golbiowski Nick,North Carolina,1202.009423
+193,Iliass Aouani,Syracuse,1201.195097
+194,Nathan Thomas,Air Force,1198.424216
+195,Jake Ogden,Furman,1198.325012
+196,Antoine Senard,Eastern Kentucky,1198.267739
+197,Elias Gedyon,Adams State,1196.785842
+198,Ty Mogan,Montana State,1195.809824
+199,Ed Trippas,Princeton,1195.258835
+200,Marco Pompilj,Dartmouth,1193.045895
+201,Josh Phillips,Villanova,1191.424364
+202,Liam Hilbert,Buffalo,1189.530289
+203,Peter Lynch,Tulsa,1189.073715
+204,Michael Famiglietti,UMass Amherst,1188.433325
+205,Brayden McLelland,BYU,1187.61513
+206,Milo Greder,Iowa State,1187.612052
+207,Chris Negri,Dayton,1187.490828
+208,Millen Trujillo,UCLA,1187.082654
+209,Josh Park,Ohio,1186.763814
+210,Abraham Chirchir,UT-Rio Grande Valley,1186.289882
+211,Nate Osterstock,Southern Utah,1184.697601
+212,Dustin Hatfield,Eastern Illinois,1184.299462
+213,Chandler Austin,Louisville,1184.223137
+214,Gavin Parpart,Washington,1183.277444
+215,Julius Diehr,Washington,1182.645097
+216,Kyle Brackman,Connecticut,1181.989553
+217,Kaleb McLeod,Belmont,1181.389895
+218,Florian Lussy,North Texas,1181.364882
+219,John Tatter,Michigan,1180.210329
+220,Rohann Asfaw,Virginia,1179.796125
+221,Fitsum Seyoum,Virginia Tech,1179.215648
+222,Luke Hoffert,Bradley,1179.195382
+223,Matt Young,Arkansas,1178.766542
+224,Cameron Avery,Stony Brook,1178.070097
+225,Justin Robison,Cal Poly,1177.735842
+226,Brian Zabilski,Columbia,1177.364553
+227,Festus Lagat,Iowa State,1176.33124
+228,Dan Schaffer,Binghamton,1174.99791
+229,Karl Thiessen,Tennessee,1174.965816
+230,Luis Martinez,Oklahoma State,1173.885278
+231,Cole Smith,UCLA,1173.601272
+232,Cameron Daly,Brown,1171.87966
+233,Sam Webb,Penn,1171.874959
+234,Ryan Ford,Tennessee-Martin,1171.493186
+235,Stosh Davis,Siena,1170.49791
+236,Brennan Fields,Kentucky,1170.298831
+237,Craig Huff,San Jose St.,1170.26114
+238,Yacine Guermali,Gonzaga,1170.156301
+239,Daniel Carney,BYU,1169.941859
+240,Peter Hogan,Gonzaga,1169.940777
+241,David Krahn,Princeton,1169.908268
+242,Nathan Jubran,North Florida,1169.905848
+243,Mitch Resor,North Carolina,1168.995097
+244,Matt Leach,Strava TC,1168.410842
+245,Nick Wolk,Pittsburgh,1167.76993
+246,Mahmoud Moussa,Washington,1167.730404
+247,Sam Worley,Texas,1167.243615
+248,William Randall,Siena,1165.99791
+249,Amir Ado,Washington St.,1164.681298
+250,George Gleason,UCLA,1163.785842
+251,Zachary Michon,St. Joseph's (Pa.),1163.639553
+252,Zac Jacklin,BYU,1162.49074
+253,Steven Cross,Florida State,1162.39591
+254,Kevin Murray,Navy,1161.912361
+255,Zach Marchinko,Charlotte,1160.526546
+256,Franco Martins,Brown,1160.33429
+257,Chris Morzenti,UCLA,1159.185842
+258,Henry Raymond,Dartmouth,1159.154957
+259,Brannon Cheplak,Tennessee Tech,1158.897605
+260,Mitchell Day,Wake Forest,1158.556466
+261,Tyson Miehe,Wisconsin,1158.399694
+262,Ethan Gonzales,Colorado,1157.877946
+263,Samuel Abascal,Eastern Kentucky,1157.783761
+264,Chad Johnson,Iowa State,1157.46153
+265,Garett Cortez,Incarnate Word,1157.439181
+266,Justin Domangue,UT-Arlington,1157.189882
+267,Kyle Burdick,South Dakota St.,1156.890604
+268,Toby Hardwick,Florida State,1156.091891
+269,Ethan Moehn,Arkansas,1155.718551
+270,JP Flavin,Dayton,1155.69927
+271,Michael Watts,Stony Brook,1155.512598
+272,Noah Schaub,Bowling Green,1155.435111
+273,Michael Vernau,Stanford,1154.977128
+274,Kenny Vasbinder,Columbia,1154.614553
+275,TIMOTHY McGOWAN,UNA PSU,1154.388814
+276,John Carter Blunt,UCLA,1153.933562
+277,Dillon Dean,Samford,1153.285247
+278,El Hocine Bouchrak,High Point,1153.193751
+279,Alex Rogers,Texas,1152.211208
+280,Jake Ritter,Cal Poly,1150.060842
+281,Jeffrey Kirshenbaum,Lehigh,1148.961701
+282,Jordan Hewitt,Michigan,1148.787885
+283,Augostine Lisoreng,Liberty,1147.166874
+284,Evan Ferlic,Minnesota,1146.709669
+285,Paul Luevano,Boston U.,1146.645097
+286,Joseph Murphy,Indiana,1145.903684
+287,Joshua Joseph,Adams State,1145.535842
+288,Bryce Millar,Indiana,1144.127759
+289,Daniel Hintz,Wyoming,1143.338631
+290,Mick Stanovsek,Washington,1142.245097
+291,Eric van der Els,Connecticut,1141.239553
+292,Dan Schumacher,Columbia,1141.078122
+293,Meika Beaudoin-Rousseau,UNA-Stanford,1141.035842
+294,Avery Bartlett,Georgia Tech,1140.554082
+295,Jack Salisbury,Georgetown,1140.550274
+296,Matthew Bouthillette,Georgetown,1139.923569
+297,Viraj Deokar,Princeton,1138.915874
+298,Jeremy Brown,North Carolina,1137.870097
+299,John Nownes,Iowa State,1137.795382
+300,Kevin Salvano,Notre Dame,1137.572671
+301,Christopher Torpy,Miami (Ohio),1136.120083
+302,Luke Beattie,Utah State,1135.710385
+303,John Rice,Texas,1135.212033
+304,Riley Campbell,Boise State,1134.948001
+305,Kelvin Kirui,Campbell,1133.925454
+306,Manuel de Backer,Saint Louis,1133.85
+307,Joseph Meade,Texas State,1133.764882
+308,Ibrahim Kedir,La Salle,1132.414553
+309,Salvador Capetillo,Mt. SAC,1132.110842
+310,Alex Crigger,Tennessee,1131.732892
+311,Ryan McGorty,William and Mary,1131.553362
+312,Justin Moakler,Morehead State,1131.339188
+313,Carmeron Dickson,Northeastern,1131.001534
+314,Haran Dunderdale,Bradley,1130.496108
+315,Alex Tomasko,Penn State,1129.769973
+316,Vann Moffett,Stony Brook,1129.195097
+317,Boaz Ronoh,UTEP,1128.975
+318,Michael Ward,Bradley,1128.870382
+319,Alex Milligan,North Carolina,1128.190484
+320,Jackson Cronin,George Washington,1128.039553
+321,Kevin Lapsansky,Temple,1127.975571
+322,Dominic Dyer,Columbia,1127.843443
+323,Kale Adams,Adams State,1127.685842
+324,Luke Anderson,Central Michigan,1127.087224
+325,Garrett Marsing,BYU,1126.838834
+326,Kyle Havriliak,Northern Arizona,1125.134598
+327,Scott Beattie,Tulsa,1124.932759
+328,Cornelius Kapel,UTEP,1124.15
+329,Trent Lancaster,George Mason,1123.689553
+330,Alexander Korczynski,Northeastern,1123.627666
+331,Patrick O'Brien,Dartmouth,1123.04679
+332,Jeff Lautenslager,Boise State,1123.007316
+333,Kyle Thompson,Gonzaga,1121.555513
+334,Andrew Schille,Cincinnati,1120.935111
+335,David Rosas,Providence,1120.620097
+336,Zach Stewart,Eastern Kentucky,1120.103204
+337,Joe Riordan,Michigan State,1119.677755
+338,Rodgers Korir,UTEP,1119.35
+339,Wyatt Diderickson,Idaho State,1119.284557
+340,Robert Santoyo,Army West Point,1117.97291
+341,Ben Hill,Michigan,1117.592334
+342,Paul Stafford,Florida State,1117.269478
+343,Billy Magnesen,Illinois,1117.178834
+344,Martin Barr,Villanova,1116.378868
+345,Nicholas Laccinole,Washington,1116.370097
+346,Connor Ferrentino,Alabama,1115.437907
+347,Albert Kosgei,Louisville,1115.131242
+348,Paul Power,Villanova,1115.092537
+349,Matthew Rainey,American,1115.064553
+350,Jack Tiernan,Wake Forest,1114.945155
+351,Ben Holland,Cal Poly,1114.585842
+352,Perrin Hagge,Princeton,1114.135548
+353,Kramer Morton,BYU,1114.072828
+354,Daniel Soto,Iowa,1113.316859
+355,Colin O'Mara,Arkansas,1113.180862
+356,Stuart McCallum,Portland,1111.245206
+357,Jacob Perry,Texas A&M,1111.229623
+358,Jack Beaumont,North Texas,1111.089882
+359,Josh Maier,Southern Illinois,1110.611998
+360,Jack Yearian,Oregon,1110.481729
+361,Daniel Mountcastle,UC Santa Barbara,1110.285842
+362,Michael Kiernan,Quinnipiac,1110.194128
+363,Alan Burns,Youngstown St.,1109.85
+364,Tyler Keslin,Notre Dame,1108.841859
+365,Eric Coston,LSU,1108.188996
+366,Toby Cooke,New Mexico,1107.936857
+367,Matthew Edwards,Belmont,1107.881364
+368,Nolan Dozier,St. Mary's (Cal.),1107.466992
+369,Hociel Landa,Rice,1106.639882
+370,Blair Hurlock,Stanford,1106.010842
+371,Christian Allen,Weber State,1105.916777
+372,John Nownes,UNIA,1105.686998
+373,Darian Sorouri,Stony Brook,1105.143762
+374,Alex Cornwell,Charlotte,1104.974706
+375,Alexander Bruno,Valparaiso,1104.285111
+376,James Cragin,Georgia Tech,1103.815147
+377,Dylan Hodgson,Kansas,1103.357976
+378,Derick Peters,Wisconsin,1102.844073
+379,Collin Crilly,St. Joseph's (Pa.),1102.314553
+380,Nikhil Pulimood,Duke,1101.805513
+381,Trelani Waters,Hoka Aggies,1101.760842
+382,ROBBY CREESE,UNA,1101.738814
+383,Daniel Viegra,Wake Forest,1100.529485
+384,Jacob Bilvado,Air Force,1100.407882
+385,Owen Ritz,Dartmouth,1099.900748
+386,Tyler Smith,Brown,1099.702318
+387,Reuben Kiprono,Portland,1098.785896
+388,Adam Hendrickson,Utah State,1098.499222
+389,Ryan James,La Salle,1098.114553
+390,Clay Musial,Rice,1097.814882
+391,Forrest Barton,Colorado St.,1097.679975
+392,Paul Zeiss,California,1097.627395
+393,Huruy Zeratsion,San Jose St.,1097.535842
+394,Jack Manderscheid,Minnesota,1096.599429
+395,Jake Hoffert,Bradley,1096.51995
+396,Ben Naeger,Saint Louis,1095.975
+397,Brandon Garnica,BYU,1095.045714
+398,Kevin Kelly,Drake,1094.020382
+399,Luke Coulter,Stony Brook,1093.914553
+400,Logan Marshall,Cal Poly,1093.335842
+401,Liam Kimball,UMass Lowell,1093.299905
+402,Tyler Fisher,Cornell,1093.229357
+403,Nick Ciolkowski,Elon,1092.818548
+404,Justin Domanque,UT-Arlington,1091.241859
+405,Elliot Gindi,Northern Arizona,1091.211998
+406,Nick Fransham,Mount St. Mary's,1090.887361
+407,Nathan Wadhwani,Washington St.,1089.967769
+408,Isaac Akers,Tulsa,1089.770382
+409,Patrick Spychalski,Unattached,1089.739553
+410,Aaron Groff,Penn,1089.619101
+411,Trent Powell,Colorado St.,1088.49006
+412,Brandt Preston,Texas A&M,1088.358734
+413,Nate Beamer,Washington,1087.320097
+414,Colt Griffith,Clemson,1086.975
+415,Soresa Gemechu,East Tenn. St.,1085.981159
+416,Christian Liddell,Georgetown,1085.63863
+417,Kyle Barber,Connecticut,1085.589553
+418,William Anderson,Bradley,1085.545382
+419,David Scherrer,Brown,1085.483436
+420,Alex Merder,Cal Poly,1085.010842
+421,Mason Coppi,Furman,1084.784638
+422,Dalton Hengst,Ole Miss,1083.720542
+423,Tyson Green,Weber State,1083.307039
+424,Colin Schaefer,Florida,1082.625674
+425,Tyler Johnson,Calvin,1082.525
+426,Andrew Cooper,Washington St.,1081.886998
+427,Jonathan Schloth,George Mason,1081.464553
+428,Connor Weaver,BYU,1081.432562
+429,Nadeel Wildschutt,Coastal Carolina,1081.043548
+430,Andrew Ehrenberg,UCLA,1080.885842
+431,Ben Butler,Kansas,1079.628863
+432,Brodie Modini,North Carolina,1079.245097
+433,Ben Savino,Ole Miss,1078.77664
+434,Cody Baele,Illinois State,1078.41716
+435,Jacob Stone,Weber State,1078.391859
+436,Marcus Skinner,Eastern Illinois,1078.1
+437,Arjun Jha,Indiana,1077.594527
+438,Sam Ritz,Columbia,1077.364553
+439,Kyler Little,Washington St.,1077.311998
+440,Mikey Giguere,Cal Poly,1076.785842
+441,Michael Melgares,Kansas,1076.452812
+442,Rob Morro,Villanova,1074.219563
+443,Benjamin Scamihorn,SIU Edwardsville,1073.901373
+444,Ryan Mitchell,Monmouth,1073.868389
+445,Jonathan Ellis,Calvin,1073.725
+446,Greg Fusco,Cornell,1073.289553
+447,Alex Miley,Duke,1073.285066
+448,Nicholas Ciaccia,East Carolina,1073.268548
+449,Conor Murphy,Rutgers,1073.137804
+450,Hunter Gilbert,Campbell,1073.117927
+451,Joey DeFeo,Northern Arizona,1072.786998
+452,Matthew Pereira,Harvard,1072.627892
+453,Graham Brown,Arkansas,1072.536047
+454,Daniel Michalski,Indiana,1072.358941
+455,Matthew Murray,Rice,1072.064882
+456,Bradley Wattleworth,Notre Dame,1069.626837
+457,Josh Romine,Duke,1069.455175
+458,Hillary Melly,Stetson,1069.280848
+459,Michael McGonnigle,Connecticut,1069.239553
+460,Morgan Beadlescomb,Unattached,1068.85
+461,Paul Ryan,Washington St.,1068.520496
+462,Bryce Quigley,Oklahoma State,1068.311998
+463,Gabriel Kiprono,Tennessee Tech,1067.76101
+464,Matthew Novak,Virginia,1067.270097
+465,John McGowan,Penn State,1067.153465
+466,Nathan Henderson,Syracuse,1065.934601
+467,Garek Bielaczyc,Texas,1065.652737
+468,CJ Ambrosio,Duke,1065.642879
+469,Cameron Ponder,Furman,1065.422643
+470,Andy Weber,George Washington,1065.214553
+471,Riad Rababeh,Central Michigan,1065.125
+472,Artin Allahverdian,UCLA,1064.635842
+473,Patrick Schaefer,Kentucky,1064.511532
+474,Johnny Pace,Virginia,1064.488814
+475,Thomas George,Missouri,1064.150295
+476,Zach Lefever,Pittsburgh,1063.759862
+477,John Benner,Vermont,1063.595265
+478,Owen Bailey,Samford,1063.498277
+479,Matthew Courtenay,Iona,1063.150046
+480,Bailey McIntire,Purdue,1062.623093
+481,Jared Garcia,New Mexico,1062.595715
+482,Zach Boone,UNC-Asheville,1062.059519
+483,Zephyr Seagraves,Texas A&M,1061.726986
+484,Istvan Szogi,Florida State,1060.97255
+485,Christian Kazanjian,Duquesne,1060.9
+486,Rowan Doherty,Simon Fraser,1060.660842
+487,Michael Downey,Wyoming,1060.158304
+488,Andre Hillsman,Tennessee,1059.921833
+489,Daniel Pederson,Marquette,1059.6807
+490,Dereck Elkins,Texas State,1059.614882
+491,Cameron Field,Tulsa,1059.059323
+492,Craig Corti,Wake Forest,1058.711013
+493,Liam Conway,UNA-Stanford,1058.671684
+494,Luke Jaciw-Zurakowsky,La Salle,1058.262361
+495,Spencer Smucker,High Point,1057.684519
+496,Hunter Boyer,Air Force,1057.342341
+497,Tomas Reimer,Cornell,1057.239553
+498,Michael Guerrero,UT-Arlington,1056.929055
+499,Cam Trout,Indiana State,1056.725
+500,Nick Brey,Tennessee,1056.715253
+501,Luis Chavez,San Jose St.,1056.710842
+502,Sam Lomax,Portland,1056.009071
+503,Alexander Kushen,Dartmouth,1055.495097
+504,Mark Middleton,Tulsa,1055.186998
+505,Noah Charles,East Tenn. St.,1054.561744
+506,Michael Ottesen,BYU,1054.475
+507,Thomas Little,UNC-Asheville,1053.359519
+508,Brackin Stewart,Troy,1053.355848
+509,Liam Purdy,American,1053.289553
+510,Cameron Proceviat,Unattached,1052.785842
+511,Caleb Ferguson,Calvin,1052.6
+512,Steve Neumaier,Cornell,1052.314938
+513,Taylor Dillon,Weber State,1052.256798
+514,Andrew Burkhardt,California,1051.534534
+515,Karson Sommer,Iowa,1050.513049
+516,Tevin Brown,Akron,1050.311703
+517,Jake Hanawalt,Purdue,1050.257777
+518,Davone Hernandez,VMI,1050.236744
+519,Dallin Farnsworth,BYU,1049.875
+520,Silas Griffith,Lipscomb,1049.455848
+521,Austin Wicker,Eastern Michigan,1049.160111
+522,Sage Turner,UNC-Asheville,1049.084519
+523,Clayton Mendez,UNA-Stanford,1048.885842
+524,Bashir Mosavel-Lo,Virginia Tech,1048.538814
+525,TJ Sugg,Baylor,1048.5
+526,Braeden Collins,Georgia Tech,1047.613918
+527,Jackson Felkins,Pepperdine,1047.528198
+528,Cooper Teare,Una-7,1047.487624
+529,Omer Almog,UT-Rio Grande Valley,1047.414882
+530,Ben Fleming,Virginia Tech,1046.281491
+531,Evert Silva,Portland,1045.970775
+532,Ben Bryant,Samford,1045.961744
+533,Chase Cayo,South Dakota St.,1045.605513
+534,Jacob Lee,Michigan,1045.430988
+535,Benjamin Doiron,American,1045.414553
+536,Xian Shively,Unattached,1045.010842
+537,Joe Limo,Radford,1044.859519
+538,Joe Limo,Radford,1044.859519
+539,Mark Beckmann,Central Michigan,1044.425
+540,Remi Schyns,Eastern Kentucky,1043.967118
+541,ABABU MOHAMMED,Tennessee Tech,1043.680264
+542,Andres Sandoval,Sacramento St.,1043.528576
+543,Matthew Bromley,Miami (Ohio),1043.491339
+544,Awet Beraki,Stephen F. Austin,1043.414882
+545,Zach Swenson,Villanova,1042.987994
+546,Satchel Caldwell,Colorado St.,1042.7
+547,Harry Powell,Temple,1042.33256
+548,Trevor Reinhart,Yale,1041.517946
+549,Danny Dominguez,Adams State,1041.160842
+550,Matt Fusco,Cornell,1041.078765
+551,Danny Kilrea,Unattached,1040.9
+552,Siro Pina Cardona,High Point,1040.684519
+553,Justin Varineau,Calvin,1040.4
+554,Alec Esposito,North Texas,1039.439882
+555,Kody Gould,Utah State,1039.429647
+556,Jeryck Wilson,Charleston Southern,1038.290986
+557,Justin Hazell,Una-8,1038.187624
+558,Jon Klaiber,Marquette,1038.0557
+559,Matthew Scarr,East Tenn. St.,1037.636744
+560,Mitchell Sanders,Georgia Tech,1037.448539
+561,Munir Kabbara,UCLA,1037.335842
+562,Will Battershill,Harvard,1037.317985
+563,Barry Keane,Butler,1036.730331
+564,Jonathan Johnson,USC Upstate,1036.559519
+565,Porter Reddish,BYU,1036.55
+566,Chandler Lorf,Central Michigan,1036.425
+567,Maximilliano Martinez,Colorado St.,1036.341845
+568,Aaron Wier,Morehead State,1035.355264
+569,Skylar Ovnicek,Idaho,1035.353576
+570,Scott Johnson,Air Force,1035.196023
+571,Michael Karls,Navy,1034.987361
+572,MICHAEL MOONEY,Unattached,1034.425
+573,Noah Perkins,North Florida,1034.105848
+574,Robert Wagner,Minnesota,1033.903341
+575,Tristan Peloquin,Portland,1033.687624
+576,Adam Bradtmueller,East Tenn. St.,1033.561744
+577,Pierre-Louis Detourbe,Simon Fraser,1033.535842
+578,Ryan Kutch,Fordham,1033.24791
+579,Luke Landis,Ohio State,1033.180334
+580,Alec Schrank,Air Force,1033.045372
+581,Kyle Brandt,Drake,1032.895382
+582,Matt Inman,Charleston Southern,1032.847736
+583,Matt Inman,Charleston Southern,1032.847736
+584,Jacob Slann,Clemson,1032.5
+585,TJ Morales,High Point,1032.484519
+586,Gavin Hoffpauir,Texas A&M,1032.322323
+587,Matthew Carmody,Unattached,1032.3
+588,Grant O'Callaghan,SE Louisiana,1031.564882
+589,Jacob Brueckman,Colorado St.,1031.406687
+590,Levi Thomet,Oregon,1031.24726
+591,Riley Osen,Portland,1030.741845
+592,BROCK DYKEMA,Unattached,1030.4
+593,Brian Rono,Mid. Tenn. State,1030.330848
+594,Brayden Law,Michigan State,1030.29673
+595,Cooper Teare,UNATTACHED-5,1030.25
+596,Daryn Hutchings,Binghamton,1029.964553
+597,Paddy Robb,Adams State,1029.760842
+598,Michael Kennedy,Marist,1029.44791
+599,Jordy Ceja,UC Davis,1029.405034
+600,Joe Horen,Portland,1029.312624
+601,Isaac Davis,Penn State,1028.928292
+602,Tyler Polman,Youngstown St.,1028.625
+603,Andrew Castano,USC Upstate,1028.459519
+604,Dylan Jacobs,Unattached,1028.125
+605,Titus Kiplagat,Stephen F. Austin,1027.689882
+606,Tommy McDonough,Auburn,1026.993907
+607,Coen Haroldson,Utah State,1026.929647
+608,Tyler Phillips,Bowling Green,1026.910111
+609,Matthew Kamph,Memphis,1026.605848
+610,Aldo Marquez,Northern Arizona,1026.436998
+611,Justin Weber,Air Force,1026.425
+612,Colton Johnsen,Washington St.,1026.367327
+613,Jack Daly,St. Joseph's (Pa.),1026.164553
+614,Roberto Piotto,Central Connecticut,1025.64791
+615,Luke Meade,Furman,1025.636744
+616,Peter Allegre,Portland,1025.512938
+617,Greg Mangarelli,Stony Brook,1025.195097
+618,Winter Romeyn,Michigan State,1025.129924
+619,Reed Brown,Una-2,1025.062624
+620,Addison Smith,Calvin,1024.8
+621,Juan Cisneros,Radford,1024.484519
+622,Meshack Kipruto,Campbell,1024.105012
+623,Abdi Ahmed,Unattached,1024.025
+624,Jake Brophy,Navy,1023.737361
+625,Bobby Johnson,Butler,1023.68179
+626,David Coffey,Miami (Ohio),1023.634812
+627,Fabian Cardenas,Idaho,1023.578576
+628,Michael Teran-Solano,Portland,1023.54929
+629,Garrett O'Toole,Arizona State,1023.493022
+630,Adam Breaux,Tulsa,1023.205544
+631,Jack Joyce,Virginia Tech,1023.084992
+632,Trent Mandato,Furman,1022.668979
+633,Jerald Taylor,Wyoming,1022.5
+634,Anthony Benitez,Unattached,1022.335842
+635,Jacob Branch,Michigan,1022.277553
+636,Jack Aho,Michigan,1021.95624
+637,Jordan Bostian,Western Carolina,1021.761744
+638,Charlie Hunter,Unattached,1021.675
+639,Jamison Koeman,Calvin,1021.025
+640,Joaquin Martinez De Pinillos,Wake Forest,1020.856499
+641,Gashaw Duhamel,Tennessee,1020.824389
+642,Makinnley Casey,Radford,1020.559519
+643,Spencer Smith,Iowa,1020.025
+644,Alex Topini,Rice,1020.014882
+645,Jack Polerecky,Loyola Marymount,1019.87429
+646,Kipkirui Sammy,Tennessee Tech,1019.155264
+647,Robert Tully,Tulsa,1018.736998
+648,Bransen Thomas Stimpfel,Unattached,1018.660842
+649,Ryan Lehmuth,Northern Colorado,1018.625
+650,Nick Doan,Liberty,1018.400557
+651,Nick Pschunder,Rutgers,1018.395887
+652,Justin Janke,Washington St.,1018.281916
+653,Brandon Hernandez,UNC-Greensboro,1017.936744
+654,Matt Thornton,North Carolina,1017.870097
+655,Henry Hayes,Portland,1017.575
+656,Bennett Gagnon,Gonzaga,1017.530513
+657,John Ward,Clemson,1017.275
+658,Nick Oakley,Eastern Illinois,1017.264936
+659,Jack Guyton,Florida,1017.097948
+660,Stephen Gray,High Point,1016.684519
+661,Adolfo Carvalho,Rice,1016.214882
+662,Jackson Lewis,Arizona State,1015.010842
+663,Alex Masai,Hofstra,1014.39791
+664,Alex Boseman,East Carolina,1014.193548
+665,James Garst,East Tenn. St.,1014.186744
+666,Joshua Yeager,Drake,1013.770382
+667,Nick Yeend,Indiana State,1013.55
+668,Robinson Snider,Ole Miss,1013.5
+669,Gilbert Grundy,Jacuzzi Boys AC,1012.937624
+670,Anthony Sasso,High Point,1012.859519
+671,Austin Del Rosso,Tulsa,1012.698942
+672,Nathan Dunn,Wright State,1012.560111
+673,Daniel Saina,McNeese State,1012.439882
+674,Anthony Camerieri,Miami (Ohio),1012.25
+675,Ryan Riddle,Tulsa,1011.72159
+676,Nick Laning,Vanderbilt,1011.495637
+677,Gabe Mudel,Michigan,1011.392819
+678,Sean Miller,Simon Fraser,1011.385842
+679,Jarrett Mattingly,Morehead State,1011.355264
+680,Paxton Smith,Colorado,1011.1
+681,Derek Holmes,UMass Lowell,1010.891651
+682,Josh Routh,East Tenn. St.,1010.511744
+683,Patrick Lynch,William and Mary,1010.279969
+684,Adam Wise,LSU,1009.875
+685,Jakob Kintzele,Princeton,1009.592971
+686,Marlin Young,USC Upstate,1009.109519
+687,Jon Bishop,Texas A&M,1008.714882
+688,Anthony Schmalz,Montana State,1008.703576
+689,Matt Prest,Saint Louis,1008.595652
+690,Alex Tam,Unattached,1008.5
+691,Carlos Vargas,Simon Fraser,1007.785842
+692,Matthew Watkins,Washington St.,1007.561998
+693,Jordan Carrington,Morehead State,1007.530264
+694,Mitch Halpern,Binghamton,1007.514553
+695,ALBERT STEINER,Unattached,1007.425
+696,Vincent Zona,Notre Dame,1007.424428
+697,Stokton Smith,Utah State,1007.330513
+698,Nick Heath,Pepperdine,1007.321418
+699,Ethan Hageman,East Carolina,1007.193548
+700,Jared Pangallozzi,Johns Hopkins,1007.070097
+701,Owen Wing,Penn State,1007.014136
+702,Ryan Peck,California,1006.94471
+703,Brad Cheek,Samford,1006.886744
+704,Oscar Vazquez,Buffalo,1006.875316
+705,Sam Bowers,Georgia,1006.63355
+706,Ryan Burd,Marquette,1006.5557
+707,Jonathan Lee,UC Riverside,1006.25
+708,Reed Brown,UNATTACHED-1,1005.95
+709,Everett Smulders,Ole Miss,1005.8
+710,Eion Nohilly,Georgetown,1005.776736
+711,Kevin Koski,Illinois State,1005.727241
+712,Corey Thornton,Wis.-Milwaukee,1005.535111
+713,William Wise,Presbyterian,1005.434519
+714,Alex Hernandez,Sam Houston St.,1005.014882
+715,Charlie Harders,Unattached,1004.85
+716,Daniel Murphy,Iowa,1004.696176
+717,Daniel Sims,Michigan State,1004.546367
+718,Anthony Ocegueda,Utah Valley,1004.441859
+719,Darius Riley,Unattached,1004.210842
+720,Joacim Zuniga,Texas Tech,1003.993409
+721,Alec Hartman,Bradley,1003.936998
+722,Matt Scarpill,St. Joseph's (Pa.),1003.839553
+723,Stephen Haas,Northern Colorado,1003.8
+724,James Zentmeyer,Liberty,1003.718548
+725,Jayson Hines,Stony Brook,1003.520097
+726,Chris Melgares,Kansas,1003.411063
+727,nathan Watson,Chattanooga,1003.311744
+728,Collin Buck,Montana State,1003.139404
+729,Daniel Cohen,Penn,1002.782342
+730,Cale Kilian,Indiana State,1002.675
+731,Cal Puskar,Buffalo,1002.363871
+732,Devin Wulff,Portland,1002.325
+733,Andrew Forsyth,Colorado St.,1002.271169
+734,Hunter Davila,Arizona,1002.267985
+735,Fraser Wilson,Unattached,1001.275
+736,Jason Vincze,Vanderbilt,1001.220296
+737,Eric Casarez,Oklahoma,1000.916859
+738,John Bennett,Unattached,1000.660842
+739,Ryan Burrows,Northern Kentucky,1000.268548
+740,Noah Jacobs,Texas A&M,1000.024914
+741,Gavin Cooper,East Tenn. St.,999.8117436
+742,Tom Gardiner,Xavier (Ohio),999.2557
+743,Trevor Foley,Florida,998.9729481
+744,Joey Duerr,Minnesota,998.8453818
+745,Thomas Salas,Portland,998.825
+746,Curt Crossley,Weber State,998.3042743
+747,Konnor Sommer,Iowa,997.775
+748,Kyle Johnson,Lipscomb,997.7558483
+749,Joshua Sealand,Strava TC,997.1358421
+750,Bryce Catlett,VCU,996.8435476
+751,Matt Bomkamp,Charlotte,996.8369975
+752,Nathan Gillis,La Salle,996.5645531
+753,James Brinyark,Alabama,996.477001
+754,Ben Garner,Samford,996.3867436
+755,Tom Hale,Brown,995.9798718
+756,Deion Hardy,Incarnate Word,995.7252234
+757,Wesley Robinson,Tennessee,995.3
+758,Eldon Warner,South Dakota,995.1703818
+759,Will Merritt,Mount St. Mary's,995.1123612
+760,Said Guermali,Portland,995.0626238
+761,Mark Bennett,Southern Utah,994.7785763
+762,Michael Tardella,USC Upstate,994.7095185
+763,Zac Thompson,Miami (Ohio),994.375
+764,Alexander Roth,Penn,994.24577
+765,Andrew Abikhaled,Rice,994.0648822
+766,Jaime Marcos,Eastern Illinois,994.0033871
+767,John Reniewicki,Arizona State,993.6358421
+768,Ben Barrett,North Carolina St.,993.4542517
+769,Gus Newcomb,Colorado,993.35
+770,Dustin Jutras,George Mason,992.9645531
+771,Harrison Maloy,UMass Lowell,992.7441693
+772,Landon Skelly,SIU Edwardsville,992.7302642
+773,James Nedrich,Youngstown St.,992.25
+774,Carter Christman,UNATTACHED-5,992.15
+775,Max Barbour,Tennessee,992.075
+776,Carter Christman,Una-3,991.8126238
+777,Griffin Molino,Saint Francis University,991.6623612
+778,Sage Church,Longwood,991.2345185
+779,Jeff Roberts,Iowa,991.05
+780,Steven Grolle,Strava TC,990.1608421
+781,Matthew Newland,Florida State,990.0430238
+782,Dominic Dimambro,Michigan,990.0119975
+783,Nikolai Rhodes,Air Force,989.975
+784,Luke Sumerford,UNC-Greensboro,989.7117436
+785,Kyle Kelly,Stony Brook,989.5200973
+786,Jonathan Lauer,Columbia,989.3895531
+787,Roberto Porras,Utah State,989.2796468
+788,Cooper Schroeder,Kansas State,989.2684093
+789,Anthony Stone,Lane CC,989
+790,Adam Johnston,Tennessee,989
+791,Michael Rautter,Siena,988.9229103
+792,Ryan Cash,Indiana State,988.85
+793,Nathan Pixler,Seattle U.,988.6876238
+794,Sean McDermott,Cal Poly,987.9500569
+795,Jonny Glen,New Mexico,987.8863096
+796,Grant Gilbert,High Point,987.8095185
+797,Brenden Allen,Unattached,987.8
+798,Ryan Gallagher,Providence,987.2090976
+799,Zach Litoff,Santa Clara,987.116859
+800,Isaac Vargas,Texas A&M-CC,986.9398822
+801,Tyler Dozzi,British Columbia,986.7358421
+802,Tyler Bowling,Purdue,986.6869975
+803,Scott Kopczynski,Gonzaga,986.4992896
+804,Paul Richardson,Samford,986.4867436
+805,Aidan Livingston,Vanderbilt,986.075
+806,Connor McMenamin,Bucknell,986.0700973
+807,Andy Muha,Lane CC,985.95
+808,Jack Davidson,Santa Clara,985.8935148
+809,Colin Wills,George Washington,985.8395531
+810,Charlie Hunter,Una-4,985.6876238
+811,Sigei Bernard,Tennessee Tech,985.6302642
+812,Marshall Beatty,Army West Point,985.3729103
+813,Anthony Berry,Michigan,985.1520289
+814,Alec Haines,Oklahoma State,984.7848608
+815,Brendan Fraser,Notre Dame,984.65
+816,Jacob Coccia,USC Upstate,984.4345185
+817,Jacob Coccia,USC Upstate,984.4345185
+818,Felix Kandie,Liberty,984.3969714
+819,Jack Anstey,Illinois State,983.741859
+820,Jordan Lesansee,Air Force,983.45
+821,Alexandre Moret,UT-Rio Grande Valley,983.4148822
+822,Charlie Pope,San Jose St.,983.3358421
+823,Andrew Miller,Elon,983.3185476
+824,Nathan Longfellow,East Tenn. St.,983.3117436
+825,Jordan Brannan,Iona,983.0267159
+826,Jacob Truitt,Northwest Christian,983.025
+827,Hector Garcia,UC Irvine,982.7252875
+828,Matt McBrien,Georgia Tech,982.6450973
+829,Sam Morton,Dartmouth,982.4045533
+830,Derek Basinger,Youngstown St.,982.15
+831,Max Norman,Portland State,981.8535763
+832,Jonathan Voth,Bowling Green,981.7351112
+833,Will Majercak,Dayton,981.6
+834,Alex Slenning,Washington,981.1819909
+835,Ashenafi Kidanu,Radford,981.1095185
+836,Brad Swiney,Tennessee,980.675
+837,Kyle Johnson,Pepperdine,980.5890337
+838,Jacob Janzen,Oklahoma,980.416859
+839,Josh Campbell,Northern Colorado,980.275
+840,Jesse Todd,Lane CC,980.225
+841,Sean Parker,Mercer,980.1867436
+842,Aidan Thompson,Belmont,980.1346313
+843,Cal Davidson-Turner,Seattle U.,979.9876238
+844,Edgar Bonilla,San Jose St.,979.9608421
+845,Juan Manzano,UT-Rio Grande Valley,979.9148822
+846,Andrew Clusserath,Gonzaga,979.6002875
+847,Brett Davidson,Boston U.,979.2450973
+848,Robby Prescott,Eastern Illinois,978.875
+849,Ethan Newland,George Mason,978.8145531
+850,Drew Seidel,Portland State,978.7785763
+851,Baptiste Jard,Incarnate Word,978.745327
+852,Daniel Santino,Miami (Ohio),978.625
+853,Cole Barkocy,Eastern Kentucky,978.5725368
+854,Hugh Sadler,Yale,978.2979103
+855,Seth Hirsch,Wisconsin,977.9917484
+856,Clark Otte,Butler,977.617746
+857,Tim Bason,North Carolina St.,977.6077667
+858,Matt Schumann,Portland,977.55
+859,Chase Kennedy,Kennesaw State,977.3558483
+860,Robert Pedersen,Una-5,977.3126238
+861,THOMAS CHASTON,COLORADO ST.,977.15
+862,Mark Britt,Chattanooga,977.1367436
+863,Adam Barnard,Georgetown,977.0513087
+864,Lance Rambo,Michigan State,977.0119975
+865,Jesse Allen,Idaho State,976.7236946
+866,Charlie Perry,UNA-Stanford,976.6108421
+867,Tyler Marshall,Vermont,976.563843
+868,Caleb Van Geffen,Vanderbilt,975.8
+869,Jake Bertelsen,Miami (Ohio),975.725
+870,Harrison Martingayle,LSU,975.65
+871,Kyle Harris,Butler,975.5557
+872,Wes McPhail,Texas A&M,975.4229481
+873,Thomas Amabile,George Mason,975.3395531
+874,Cobie Chavez-Killinger,Portland,975
+875,Ryman Crone,UC Davis,974.7626238
+876,Travis Gallimore,Campbell,974.6095185
+877,Gavin Jenkins,VMI,974.1617436
+878,JOSH TORRES,Unattached,974.1
+879,Georde Goodwyn,Tennessee,973.575
+880,Jack Rose,UC Santa Barbara,973.2858421
+881,Alex Cleveland,North Texas,973.0148822
+882,Matt Blanco,Illinois State,972.925
+883,Shane Streich,Minnesota,972.7796468
+884,Dillon May,Montana,972.7785763
+885,Seth Berdahl,Oregon,972.55
+886,Michael Smith,Clemson,972.475
+887,Pedro Nasta,Texas,972.3434093
+888,Jacques Hebert,Seattle U.,972.3126238
+889,Hunter Jutras,George Mason,971.8895531
+890,Andrew Rafla,Boise State,971.8097777
+891,Jack Rogers,Auburn,971.5
+892,Blanton Gillespie,UNC-Asheville,971.4345185
+893,Trelek Jones,UNC-Greensboro,971.2367436
+894,Ryan Smeeton,Oklahoma State,971.1346668
+895,Vinny Del Conte,Colorado St.,971.125
+896,Britain Reynolds,Utah Valley,970.666859
+897,Jake Knoblich,Portland,970.225
+898,Avery Felty,Unattached,970.225
+899,John Kavulich,Una-10,969.9876238
+900,Grayson Ollar,Idaho,969.8785763
+901,Nick Boogades,Tennessee,969.575
+902,Jalen Frantal,Pepperdine,969.5742896
+903,Jackson Goodwin,Clemson,969.35
+904,Grayson Jenkins,Xavier (Ohio),969.3307
+905,Jacob Stupak,Bucknell,969.1950973
+906,George Espino,Southern Utah,968.6789893
+907,Matt Kingeter,UMBC,968.4645531
+908,Justin Adams,VMI,968.3867436
+909,Graham Parker,UNC-Asheville,968.3095185
+910,Jeremy Romero,Northern Colorado,968.2
+911,Conner Covey,Northwest Christian,968.025
+912,Ben Monk,Seattle U.,967.7876238
+913,Andrew Tighe,Dayton,967.6
+914,Benjamin Davidson,Santa Clara,966.9742896
+915,Nick Randazzo,UC Santa Barbara,966.7108421
+916,Austin Tamagno,Oregon,966.6046468
+917,Chase Howard,Creighton,966.3057
+918,Noah Hufnagel,Indiana State,966.275
+919,Grant Tiff,Stephen F. Austin,966.2398822
+920,Oliver Rigg,Alabama,966.175
+921,Joe Gorthy,Kansas State,966.0434093
+922,Shane Henderson,Lane CC,965.95
+923,Kevin Vinolas,Stony Brook,965.8950973
+924,Chad Sussman,Bucknell,965.8222209
+925,Kyle Kennedy,Seattle U.,965.6876238
+926,Jonathan Boyd,Chattanooga,965.6117436
+927,Vince Turner,Murray State,965.5302642
+928,James McCann,Detroit Mercy,965.4851112
+929,Declan McManus,Belmont,965.4526628
+930,JOE BINDER,Unattached,965.325
+931,Joe Simmons,Idaho State,965.239325
+932,Matthew Barrera,UNC-Asheville,965.2345185
+933,Duncan Hamilton,Montana State,965.1573821
+934,Thomas Thornton,Illinois State,965.05
+935,Johnathan Chavez,Georgetown,964.8119975
+936,Johnny Hogue,Richmond,964.7833684
+937,Evan Suzman,Vanderbilt,964.675
+938,Stefan Bradley,Gonzaga,964.4492896
+939,Brian Griffith,Notre Dame,964.341859
+940,Carson Bain,Northwest Christian,964
+941,Alex Franklin,Seattle U.,963.6876238
+942,Baylor Franklin,Ole Miss,963.3
+943,Hunter Wharrey,Duquesne,963.225
+944,Ethan Powell,Kansas State,962.9684093
+945,Tristan Pena,UT-Rio Grande Valley,962.8898822
+946,Robert Zell,Mercer,962.8867436
+947,Craig Schumacher,Youngstown St.,962.6
+948,Miguel Bautista,Texas Tech,962.5455992
+949,Isaiah Remington,Northern Colorado,962.5
+950,Jared Coccia,USC Upstate,962.2095185
+951,Eric Beyerle,UO Running Club,962.15
+952,Paul Selden,Alabama,962.075
+953,Cain Hassim,Southern Illinois,961.8869975
+954,Fenn Hoppe,UC Davis,961.8126238
+955,Sam Ellis,Princeton,961.6645531
+956,Colin Daly,Penn,961.4341165
+957,Andrew Schilling,Wisconsin,961.4184324
+958,David Melville,Harvard,961.3535308
+959,Ryan Lee,Auburn,961
+960,Logan Morley,Montana State,960.9520351
+961,Robert Pedersen,UNATTACHED-3,960.425
+962,Brandon Cooley,Iowa,960.2261935
+963,Will Bullock,Eastern Illinois,960.225
+964,Thomas Knepshield,UNC-Greensboro,960.2117436
+965,Adam Walker,Saint Louis,960.2
+966,Jackson Thomas,Auburn,960.075
+967,Bradley Needles,UC Davis,960.0626238
+968,Matthew Thomas,Kentucky,960.0554126
+969,Daniel Navarro,Georgia,960.0479481
+970,Leif Everson,Boise State,959.8847777
+971,Justice Ramos,Colorado,959.75
+972,Preston Gromer,Pepperdine,959.5742896
+973,Steven Khan,California,959.5599452
+974,Matthew Munns,Georgia Tech,959.3700973
+975,Caleb Casolaro,Vanderbilt,959.3
+976,Pete Decker,Radford,959.2345185
+977,Christian Hubaker,Michigan,959.0119975
+978,John Luder,Kansas,958.8766595
+979,Andres Martinez,Northwest Christian,958.825
+980,Alex Tucker,Auburn,958.675
+981,Luke Hoover,Dayton,958.3298995
+982,Owen Bishop,Columbia,958.2895531
+983,Edward Harpstead,Vanderbilt,958.175
+984,Kai Benedict,California,958.1162834
+985,Sean MacGregor,Dayton,957.925
+986,Kyle Cloutier,UMass Lowell,957.8296468
+987,Payton Ash,Alabama,957.8
+988,Dalton Miles,UNC-Greensboro,957.6117436
+989,Moses Bojorquez,St. Mary's (Cal.),957.5929601
+990,Noah Karr,Alabama,957.575
+991,Blake Roberts,Butler,957.5557
+992,Erik Armes,Auburn,957.5
+993,Isaac Sanchez,Northwest Christian,957.325
+994,Meika Beaudoin-Rousseau,Stanford,957.2892942
+995,Simeon Paul,Loyola Marymount,957.2492896
+996,Arman Irani,UC Riverside,957.225
+997,Chase Watson,Northern Colorado,957.075
+998,Aaron Ahl,Simon Fraser,956.9858421
+999,Eli Boudouris,Seattle U.,956.8626238
+1000,Johnny Leverenz,Butler,956.3952727
+1001,Tristen Thomson,Sacramento St.,956.3285763
+1002,William Metcalf-Shull,Winthrop,956.3095185
+1003,Christian Bowles,Georgia Tech,956.2756266
+1004,Kenneth Hagen,Indiana,956.2119975
+1005,Wesley Gray,Austin Peay,956.1552642
+1006,Ben Matejka,Dartmouth,956.1450973
+1007,Grayson Mazziotti,Lane CC,955.95
+1008,Seth Conroy,Miami (Ohio),955.725
+1009,Michael Wheeler,UC Davis,955.4376238
+1010,Paul Nichols,Villanova,955.1458641
+1011,Colin Martin,Citadel,955.0867436
+1012,Josh Ward,Utah State,955.0046468
+1013,Solomon Demeku-Ousman,Loyola Marymount,954.9742896
+1014,Matthew Viveiros,Memphis,954.8558483
+1015,Jack Hautz,Xavier (Ohio),954.7807
+1016,Dan Carrier,Northwest Christian,954.7
+1017,Patrick Sullivan,Air Force,954.5498609
+1018,GABE FENDEL,Unattached,954.45
+1019,David Fitzgerald,Temple,954.3061474
+1020,Aaron Dugan,Saint Louis,954.3
+1021,Josh Gordon,UO Running Club,954.1376238
+1022,Michael Milic,British Columbia,953.8108421
+1023,Zach Wiberg,Weber State,953.8035763
+1024,Ryan Pitner,Miami (Ohio),953.799608
+1025,Kevin Ganahl,Saint Louis,953.625
+1026,Casey Pugh,Lane CC,953.575
+1027,Brandon Burt,USC Upstate,953.4345185
+1028,Max Lehnhardt,Miami (Ohio),953.1576889
+1029,Leonel Perez,Tennessee-Martin,953.1302642
+1030,JD Thorne,Utah State,953.0555125
+1031,Cameron Thompson,Una-9,952.9376238
+1032,Stuart Kendall,St. Mary's (Cal.),952.7492896
+1033,Isaiah Hanna,Western Carolina,952.6117436
+1034,Yousef Baddour,UC Santa Barbara,952.6002875
+1035,Micah Conley,Unattached,952.575
+1036,Noah Deck,DePaul,952.0557
+1037,Ansel Pendley-Griffin,Seattle U.,951.8626238
+1038,Rob Leverone,North Florida,951.7558483
+1039,James Withers,Utah State,951.7309154
+1040,Jacob Davis,Lane CC,951.675
+1041,Garrett Grissim,Dayton,951.6
+1042,Ben Payton,Indiana State,951.425
+1043,Justin Pacifico,Florida,951.4229481
+1044,Reese Jordan,Indiana,951.3862082
+1045,Tyson Murray,Florida State,951.2231666
+1046,Anthony Belfatto,Canisius,950.9229103
+1047,Adam Fragola,UC Davis,950.9126238
+1048,Ryle Hollick,Lane CC,950.9
+1049,Jamie Granata,Cornell,950.8462011
+1050,Ryan Wilkie,Michigan,950.8119975
+1051,Alex Nemethy,U. of Victoria,950.6858421
+1052,Jonathan Loy,USC Upstate,950.6095185
+1053,Michael Hans,Georgia,950.3513797
+1054,Tyler Anderson,Lane CC,950.25
+1055,Vladimir Zander-Velloso,Mercer,950.2117436
+1056,Derek Lin,UC Davis,950.0626238
+1057,Connor Goetz,Oakland,949.8601112
+1058,Matthew Kravitz,Lehigh,949.7700973
+1059,Jacob Lackey,Northwest Christian,949.7
+1060,Zach Robertson,Miami (Ohio),949.65
+1061,Ricky Faure,Wyoming,949.375
+1062,Lance Slichko,Seattle U.,949.3126238
+1063,Jacob Adams,Lane CC,949.275
+1064,Bishop Burns,Lane CC,948.975
+1065,Nathan Wellington,Montana,948.9035763
+1066,Diego Delaplane,Northwest Christian,948.8
+1067,Champ Davis,UO Running Club,948.75
+1068,Xolan Brown,UC Davis,948.6876238
+1069,Tyler Lay,Eastern Illinois,948.6
+1070,Branden Estrada,Loyola Marymount,948.5242896
+1071,Myers McKinney,Wake Forest,948.5215133
+1072,Sean Macpherson,St. Joseph's (Pa.),948.3145531
+1073,Stephen Crocker,Seattle U.,948.1876238
+1074,Teddy Browning,Indiana,948.1869975
+1075,Kevin Pulliam,Notre Dame,948.1808123
+1076,William Sandin,UNC-Greensboro,947.8867436
+1077,Philip Sherwin,High Point,947.8345185
+1078,Jack McNabola,Unattached,947.8
+1079,Evan Talan,Seattle U.,947.7876238
+1080,Owen Walker,Siena,947.5979103
+1081,Josh Kozelj,U. of Victoria,947.5858421
+1082,Solomon Faulkner,UO Running Club,947.4876238
+1083,Drew Cardinale,UO Running Club,947.3126238
+1084,Austin Tamagno,Una-6,947.2626238
+1085,Daniel White,Belmont,947.2302642
+1086,PHILIP HENRY,Unattached,946.95
+1087,Terry McMillan,Wis.-Milwaukee,946.8101112
+1088,Alex Gill,Marquette,946.7557
+1089,Oliver Hickson,Johns Hopkins,946.6200973
+1090,Erick Rotich,Stephen F. Austin,946.6148822
+1091,Tom Sullivan,Duke,946.1327371
+1092,David Evans,Unattached,946.05
+1093,Sam Snodgrass,Duquesne,945.825
+1094,Kevin Hall,Michigan,945.6119975
+1095,Josiah Jaqua,Mercer,945.6117436
+1096,Zachary Stallings,Washington St.,945.4662834
+1097,Neel Taber,Presbyterian,945.1095185
+1098,Dean Abushouk,East Carolina,944.8435476
+1099,Ronaldo Delgado,Fresno State,944.6597777
+1100,Josh Ramos,Colorado,944.575
+1101,Ethan Kirk,Illinois State,944.375
+1102,Ross Walker,Sacramento St.,944.2785763
+1103,Sean Torpy,Miami (Ohio),944.2300867
+1104,Patrick Bruch,Marquette,944.1807
+1105,Griffin Butler,Ohio,943.5393953
+1106,Alex Minor,Marshall,943.5373612
+1107,Liam Harris,Providence,943.4950973
+1108,Andrew Cobos,North Texas,943.4398822
+1109,Jack Zemp,Wofford,943.3867436
+1110,Charlie Parrish,Kansas State,943.3684093
+1111,Isaac Bentz,Indiana State,943.1
+1112,Will Griffen,Virginia Tech,943.0850656
+1113,Kevin White,Loyola (Ill.),943.0453818
+1114,Cameron Dean,Washington St.,942.8912834
+1115,Justin Dickman,Unattached,942.775
+1116,Matthew Founds,Fresno State,942.6347777
+1117,Logan Miller,USC Upstate,942.4345185
+1118,Ian Eklin,Iowa,942.3472677
+1119,TOM OATES,Unattached,942.25
+1120,Shawn Hutchison,St. Joseph's (Pa.),942.1843153
+1121,Isaac Barville,Eastern Washington,942.0535763
+1122,Marc Migliozzi,Akron,941.9759257
+1123,Caleb Garnica,Utah State,941.8796468
+1124,James Mas,Connecticut,941.7895531
+1125,Ryan Brown,Appalachian State,941.7685476
+1126,Dwain Stucker,Idaho,941.7007178
+1127,Jack Carleo,Providence,941.6807
+1128,Jaden Uphoff,Fresno State,941.6597777
+1129,Max Trummer,British Columbia,941.4608421
+1130,Ryan Walker,Fresno State,941.3097777
+1131,Sebastian Francesconi,Miami (Ohio),941.275
+1132,Tyler Robakiewicz,Western Carolina,941.2367436
+1133,Noah Horsburgh,Boise State,941.0812404
+1134,Michael Viano,Fresno State,941.0347777
+1135,Karl Winter,Pepperdine,940.8492896
+1136,Sean Byrne,TCU,940.8434093
+1137,Nathan Burd,Fresno State,940.8347777
+1138,Andy Payne,Eastern Michigan,940.7851112
+1139,Alekos Mitchel,Fresno State,940.7097777
+1140,Josue Del Real,Fresno State,940.6597777
+1141,Ryan Wolff,Northern Arizona,940.6119975
+1142,Joe Carter,Eastern Illinois,940.4
+1143,Andrew King,Johns Hopkins,940.3950973
+1144,Colin Dwyer,Air Force,940
+1145,Tommy Osika,Unattached,939.85
+1146,Geoffrey McCullough,Hampton,939.8095185
+1147,Alex Sasser,Loyola Marymount,939.798806
+1148,Trevor Warren,Kentucky,939.7280129
+1149,Owen Glogovsky,Lipscomb,939.6808483
+1150,Ian Reesh,Western Carolina,939.1617436
+1151,Joseph Garcia,Loyola Marymount,939.0742896
+1152,Jackson Cooper,Morehead State,938.7552642
+1153,Timothy Stevenson,Illinois State,938.5
+1154,John Gay,British Columbia,938.4358421
+1155,Logan Wetzel,Villanova,938.1869975
+1156,Luke Duggan,Northern Colorado,937.825
+1157,Clark Bookman,Kent State,937.8101112
+1158,Shane Marshall,Sacramento St.,937.7785763
+1159,Matt Henderson,Baylor,937.725
+1160,Isaac Kole,Mount St. Mary's,937.6123612
+1161,Tim Wells,Pepperdine,937.3742896
+1162,Jonas Chimbanda,Dayton,937.25
+1163,Jacob Todd,UNC-Asheville,937.2345185
+1164,Andre Jordan,VMI,937.1367436
+1165,Jack Shea,Northern Arizona,937.1246404
+1166,Paul Arredondo,Charlotte,936.8313344
+1167,Christian Conder,North Florida,936.7308483
+1168,Jordan De Spong,Nebraska,936.4329754
+1169,John Petruno,Unattached,936.1
+1170,Steven Stine,Michigan State,935.8119975
+1171,Brennan Lagerstrom,Santa Clara,935.7492896
+1172,Jordan Armstrong,Air Force,935.7
+1173,Sam Ayala,UC Irvine,935.5752875
+1174,Nick Deal,Florida,935.5565837
+1175,Colby Penn,Mt. SAC,935.4358421
+1176,Jack Conlon,George Washington,935.3645531
+1177,James McCoy,Wofford,935.1867436
+1178,Cole Lovett,Youngstown St.,935.1
+1179,Kyle Fulk,Notre Dame,935.025
+1180,Theo Burgwald,Purdue,934.9062404
+1181,Cesar Arellano,Bowling Green,934.8601112
+1182,Joshua Martin,Charleston Southern,934.7095185
+1183,Colin Yandel,Illinois,934.5863196
+1184,Charlie McIntyre,DePaul,934.5557
+1185,Dawson Bathgate,UMass Amherst,934.2700973
+1186,Mason Labadie,St. Mary's (Cal.),934.1742896
+1187,Devin Vallejo,Houston,934.1398822
+1188,Matthew Mangus,Youngstown St.,934.025
+1189,Sawyer Sprung,Troy,933.8058483
+1190,Carter Ledwith,Eastern Washington,933.7785763
+1191,Shane Bissell,California,933.7412834
+1192,Lakelin Conrad,TCU,933.6434093
+1193,Erik McMillan,Air Force,933.625
+1194,Austin Woodard,SIU Edwardsville,933.3552642
+1195,Josh Hendry,Wofford,933.3117436
+1196,Jack O'Neil,Miami (Ohio),933.125
+1197,Magnus Pettersen,Florida,932.8450808
+1198,Jorge Sanchez,Cal St. Fullerton,932.8252875
+1199,Dominic Morganti,Brown,932.5797213
+1200,Jacob Pettinga,Calvin,932.525
+1201,Thomas Gallagher,Simon Fraser,932.4608421
+1202,Jason Klaassen,Calvin,932.3
+1203,Brady Harless,Xavier (Ohio),932.2807
+1204,Ryan Miller,Longwood,932.2345185
+1205,Oisin O'Gailin,Tennessee-Martin,932.2160796
+1206,Will Sponaugle,St. Joseph's (Pa.),932.1895531
+1207,Moises Medrano,California,932.1662834
+1208,MASON BROWN,Unattached,931.6
+1209,Spencer Strohm,Unattached,931.55
+1210,Dylan Christopher,UNC-Greensboro,931.4867436
+1211,Nathan Gift,Texas Tech,931.3684093
+1212,Justin VanEpps,Buffalo,931.2479103
+1213,Brendan O'Toole,Bucknell,931.2450973
+1214,Reed Sahadevan,Tulsa,931.2119975
+1215,Jaymee Domoney,Charleston Southern,931.1475494
+1216,Jaymee Domoney,Charleston Southern,931.1475494
+1217,Tyler Janes,UCLA,930.9412834
+1218,Brandon Christopher,Dayton,930.9
+1219,Arturo Sotomayor,UCLA,930.6912834
+1220,Thomas Penney,Saint Louis,930.35
+1221,Sam Clausnitzer,Utah State,930.1197713
+1222,Tim Dwyer,Xavier (Ohio),930.0557
+1223,Francesco Romano,Eastern Illinois,930
+1224,Andrew Stafford,Portland State,929.9785763
+1225,Ben Vertelney,Indiana State,929.875
+1226,Zack Kochert,Presbyterian,929.8095185
+1227,Fredrick Kanda,Eastern Kentucky,929.7687578
+1228,Beck Classey,Wofford,929.7117436
+1229,Andrew Tankersley,Air Force,929.65
+1230,Jack Landgraf,UC Santa Barbara,929.5108421
+1231,Alex Ortiz,Saint Louis,929.475
+1232,Nick Dolan,Saint Louis,929.175
+1233,Kyle Hibinger,Bowling Green,929.0351112
+1234,Lewis Tate,Michigan,929.0119975
+1235,Ethan Frisone,Loyola Marymount,928.9762454
+1236,Jack Randall,Calvin,928.975
+1237,Tannock Blair,Saint Louis,928.9
+1238,PRICE OWENS,UNA GTOWN,928.8638135
+1239,Kane Dixon,Unattached,928.7
+1240,Daniel Connelly,Stony Brook,928.5829467
+1241,Santiago Ruiz,Sacramento St.,928.1785763
+1242,Aaron Gilliam,McNeese State,928.0648822
+1243,Kevin Pack,Western Carolina,928.0117436
+1244,Danny Peterson,Marquette,927.9057
+1245,Jonah Henry,Wyoming,927.775
+1246,Isaiah Quiambao,San Diego,927.7262454
+1247,Jack Frimodig,UC Riverside,927.525
+1248,Noel Preece,Longwood,927.4345185
+1249,Owen Hoeft,Minnesota,927.212777
+1250,Brendan Taylor,Oklahoma,927.0434093
+1251,Jun Reichl,Valor TC,926.5858421
+1252,Jackson Pearce,San Diego,926.5512454
+1253,Jason Rae,Portland State,926.4535763
+1254,Justin Tucker,Western Carolina,926.3867436
+1255,Ethan Kossover,Wichita State,926.1296468
+1256,Will Kitzhaber,Air Force,925.95
+1257,Matthew Mercer,Buffalo,925.8895531
+1258,Matthew Cavanaugh,Marquette,925.8307
+1259,Rusty Kujdych,Georgetown,925.8269757
+1260,Brian Dengler,Bucknell,925.8235808
+1261,Johnny Kemps,Boston U.,925.2450973
+1262,Banner Plumb,Presbyterian,925.1095185
+1263,Samuel Knee-Robinson,Duquesne,925.1
+1264,Brian Yanez,UT-Rio Grande Valley,925.0648822
+1265,Dylan Scarsone,Georgetown,924.8119975
+1266,Sam Katulich,Samford,924.8117436
+1267,Patrick Bruce,San Diego,924.3512454
+1268,Ryan Ioanidis,Air Force,924.175
+1269,Cooper West,Montana State,924.0258545
+1270,Tannor Wagner,Wisconsin,923.8555125
+1271,Miles Christensen,Claremont-Mudd-Scripps,923.6858421
+1272,Derek D'Amelia,St. Mary's (Cal.),923.3512454
+1273,Diego Lavieri Sosa,Mercer,923.3117436
+1274,Micah Pratt,William and Mary,923.1994795
+1275,Shane Rigsby,Morehead State,923.1302642
+1276,Shea Whatley,Texas Tech,922.9684093
+1277,Duncan Gotfredson,Presbyterian,922.8345185
+1278,William Brisman,Connecticut,922.7645531
+1279,Logan Kitchen,Purdue Fort Wayne,922.725
+1280,RYAN BIRKMEIER,Unattached,922.475
+1281,Tommy Bell,St. Mary's (Cal.),922.4262454
+1282,John Dalton Rohr,Miss State,922.4058483
+1283,Scott McKenzie,Mercer,921.8867436
+1284,Henry Harper,DePaul,921.8307
+1285,Domenic Rehm,Eastern Washington,921.6035763
+1286,Alex Riggsby,St. Mary's (Cal.),921.5512454
+1287,Ciaran O'Leary,Gonzaga,921.0555125
+1288,Brendan Hebert,Texas,921.0434093
+1289,ALEX SCALES,Unattached,920.85
+1290,Isaiah Rodarte,Adams State,920.8108421
+1291,Brady Lance,St. Mary's (Cal.),920.7512454
+1292,Zach Balleau,Murray State,920.6552642
+1293,Drake Henrichs,Northern Iowa,920.6453818
+1294,Jordan Howerton,UNC-Asheville,920.6095185
+1295,Colin Alexander,UNC-Greensboro,920.5117436
+1296,Justin Eipp,UC Riverside,920.4
+1297,Tyler Rollins,Pittsburgh,920.205883
+1298,Osman Humeida,Virginia Tech,920.0894836
+1299,Ian Converse,San Diego,920.0262454
+1300,Henry Mierzwa,Marquette,919.9057
+1301,Ethan Steiner,San Diego,919.3512454
+1302,Evan Addison,Pittsburgh,919.3200973
+1303,GRIFFIN GANZ,Unattached,919.275
+1304,Jeremy Shipley,Citadel,919.1867436
+1305,Peter Cotsirilos,Cal Poly,919.025
+1306,James Fitzgerald,Northern Arizona,918.8869975
+1307,Adam Fahey,Pepperdine,918.7262454
+1308,Ryan Sharkey,Miami (Ohio),918.7038494
+1309,Jack Rogers,Florida,918.6229481
+1310,Coby Price,Hampton,918.4345185
+1311,Cody Chism,Morehead State,918.2302642
+1312,Nicholas Dinsdale,San Diego,918.1762454
+1313,Logan Kleam,Central Michigan,918.1
+1314,Daniel Lawton,Butler,918.0557
+1315,Thomas Wilfert,UC Santa Barbara,917.9608421
+1316,Marc Reiser,Mercer,917.9367436
+1317,Eli Oftedal,Colorado St.,917.75
+1318,Anthony Vazquez,St. Mary's (Cal.),917.7012454
+1319,Riley DeMeulenaere,Loyola (Ill.),917.5453818
+1320,Marcus O'Leary,San Diego,917.2762454
+1321,Andrew Akright,Charleston Southern,917.126806
+1322,Ty Buckley,Michigan State,917.0119975
+1323,Johnathan Drinkward,San Diego,916.9262454
+1324,Lane Johnson,Citadel,916.7617436
+1325,Octavio Rubio,San Diego,916.6512454
+1326,Matt Inman,Charleston Southern,916.6138135
+1327,Matt Inman,Charleston Southern,916.6138135
+1328,Benjamin McDermott,Stony Brook,916.5895531
+1329,Kyle Levermore,Arkansas,916.4229481
+1330,Blair Bijeau,Winthrop,916.3095185
+1331,Marshall Wheeler,Air Force,916.3
+1332,Shane Knanishu,DePaul,916.2807
+1333,Logan Hall,Illinois,916.2394688
+1334,Zach Arias,Loyola Marymount,916.1512454
+1335,Justin Touhey,Pepperdine,916.1262454
+1336,Kyle Peterson,Montana,916.0035763
+1337,Patrick Holbrook,Saint Louis,915.825
+1338,Terry Young,Western Carolina,915.6367436
+1339,Jake Johnson,Texas,915.5003673
+1340,Brayden Huddleston,Bradley,915.1869975
+1341,Dane Blomquist,Adams State,915.1358421
+1342,Nick Bailey,Northern Colorado,914.925
+1343,Ben Vanderbosch,Montana,914.7535763
+1344,Kellen Reeves,VMI,914.5617436
+1345,Conor Fagan,DePaul,914.5557
+1346,Wal Khat,Northern Iowa,914.4453818
+1347,Matt Levonick,USC Upstate,914.2345185
+1348,Sem Sultanov,North Florida,914.1558483
+1349,Sukhi Khosla,Oklahoma State,914.0812404
+1350,Dylan Brenneman,Kansas State,913.9184093
+1351,Nathaniel Reichard,Georgia,913.7875732
+1352,Calum Kepler,Wyoming,913.6
+1353,Andres Delgado,UC Riverside,913.6
+1354,Davis Clark,New Hampshire,913.5995103
+1355,Adam Hohlbein,Citadel,913.5617436
+1356,Christopher Nowak,Buffalo,913.5395531
+1357,Liam O'Connell,SIU Edwardsville,913.5302642
+1358,Peter Rindfuss,Providence,913.4950973
+1359,Brady Bobbitt,Penn State,913.4119975
+1360,Matthew Morgan,North Texas,913.3898822
+1361,Bryce Hedman,Stony Brook,913.3546468
+1362,Nicholas Monkemeyer,Creighton,912.8807
+1363,Caleb Albrecht,Western Carolina,912.6367436
+1364,Stevie Steinberg,Claremont-Mudd-Scripps,912.3608421
+1365,Christopher Rivas,Marist,912.3479103
+1366,Joshua Rogerson,Northern Colorado,912.325
+1367,Patrick Sastre,Gardner-Webb,912.2095185
+1368,Darr Smith,Georgia,912.1229481
+1369,Walt Kitson,VMI,911.7617436
+1370,Brandon Hontz,Penn State,911.6869975
+1371,Connor Laktasic,Baylor,911.425
+1372,Luke Ramirez,Portland State,911.3785763
+1373,Paolo Tiongson,Marquette,911.2557
+1374,Kaden Eaton,Belmont,911.2552642
+1375,Adrian Jones,Utah Valley,911.141859
+1376,Aric Kedge,Air Force,911.125
+1377,Will LaCroix,Vermont,911.089786
+1378,Ryan Phillips,Chattanooga,910.9617436
+1379,Conner Killian,Louisiana Tech,910.5398822
+1380,Patrick Sheehan,North Carolina St.,910.4724344
+1381,Seamus White,Arizona,910.440288
+1382,Drew Schultz,Idaho,910.3535763
+1383,Devon Heisler,Citadel,910.2367436
+1384,Ezekiel Martin,Gardner-Webb,910.2345185
+1385,Bradley Davis,Miami (Ohio),910.0713952
+1386,Greg Tippmann,Purdue,910.0119975
+1387,Luke Nolley,Air Force,910
+1388,Clayton Duchatschek,Wichita State,909.8742018
+1389,Eric Kersten,Lehigh,909.7308122
+1390,Max McClelland,Marquette,909.6807
+1391,Alex Barr,UC Santa Barbara,909.6108421
+1392,Ben Boatwright,Wofford,909.5617436
+1393,Evan Schulte,Missouri,909.4786775
+1394,Jacob Stamm,IUPUI,909.4351112
+1395,Ian Vickstrom,Portland State,909.4035763
+1396,Luke Kerstiens,Indiana State,909.3
+1397,Charlie Gardner,Yale,909.2729103
+1398,Luke Phillips,Texas Tech,909.2684093
+1399,Caleb Kawasaki,Murray State,909.0302642
+1400,Sean Newcomb,Southern Utah,908.9981403
+1401,Micah Sneller,Chattanooga,908.9367436
+1402,DAWSON BESST,Unattached,908.925
+1403,Zach Kreft,Notre Dame,908.691859
+1404,Bradford DeMassa,Lehigh,908.6349971
+1405,Andy Solano,Portland State,908.5285763
+1406,Joshua Bell,Georgetown,908.3869975
+1407,Walker Gibbs,Wofford,908.3867436
+1408,Hunter Jarvis,Winthrop,908.3095185
+1409,Jeremy Lozano,DePaul,908.1807
+1410,Francis O’Brien,Citadel,907.9117436
+1411,Matt Zacharias,Air Force,907.9
+1412,Erik Engstrom,UMass Amherst,907.7700973
+1413,Gabe Armijo,Houston,907.7148822
+1414,Kyle Kredo,Montana,907.7035763
+1415,Marek Nowak,Cornell,907.5145531
+1416,Jack Moody,Wofford,907.4867436
+1417,Chris Butler,Youngstown St.,907.225
+1418,Ian Irizarry Negron,VMI,907.1367436
+1419,Cameron Beal,Northern Colorado,906.925
+1420,James Douglass,UC Santa Barbara,906.8858421
+1421,Joshua Topham,Chattanooga,906.8617436
+1422,Jackson Vroon,Belmont,906.8552642
+1423,Maxwell Wehrle,Creighton,906.7557
+1424,Ben Savage,IUPUI,906.7351112
+1425,Joseph Minor-Williams,South Dakota St.,906.677843
+1426,Zach Lauster,VMI,906.6367436
+1427,Tyler White,Western Carolina,906.4617436
+1428,Cole Klashinsky,UT-Arlington,906.4452331
+1429,Edward Hayfron,High Point,906.4345185
+1430,Eric Avalos,Citadel,906.3617436
+1431,Dane Szalwinski,Wofford,906.3367436
+1432,Colton Egberg,Eastern Washington,906.2285763
+1433,Marcus Karamanolis,Providence,906.2229103
+1434,Zachary Wyatt,Memphis,906.2058483
+1435,Arturo Toro,Northern Colorado,906.025
+1436,Austin Fred,Idaho,905.6035763
+1437,Sean Meehan,Providence,905.3807
+1438,Aaron Bennett,Indiana,905.3619975
+1439,Drew Lester,Air Force,905.2
+1440,Jeremy Meadows,Baylor,905.2
+1441,Jayson Maule,Portland State,905.0285763
+1442,Devin Fahey,Houston,904.9398822
+1443,Will Oglesby,Tennessee-Martin,904.7302642
+1444,Chrishon Dollard,Longwood,904.6095185
+1445,Robert Becker,Stony Brook,904.5395531
+1446,Ben Cikutovich,Montana,904.5035763
+1447,BLAKE HUBERT,Unattached,904.425
+1448,Tyler Spencer,Long Beach St.,904.2002875
+1449,Erik Gonzalez,Arizona State,904.1858421
+1450,Jordan Perez,Xavier (Ohio),904.0557
+1451,Jacob Stirpe,Eastern Washington,904.0285763
+1452,Ryan Day,Baylor,903.9934093
+1453,Michael Hahndorf,Bradley,903.9369975
+1454,Kale Sharp,Utah Valley,903.891859
+1455,Tristan Irish,Northern Colorado,903.7
+1456,Drew Everett,UMass Lowell,903.6296468
+1457,Noah Adams,Montana,903.6285763
+1458,Payton Gleason,Memphis,903.6058483
+1459,Caleb Seely,Idaho,903.3035763
+1460,Ethan Sparks,Youngstown St.,903.225
+1461,JONATHAN HORTON,Unattached,903.05
+1462,Nicholas Mullineux Perrault,Eastern Washington,903.0285763
+1463,Noah Stevenson,Kansas State,902.8434093
+1464,Tyler Thatcher,Winthrop,902.8345185
+1465,Anthony Lemus,Sacramento St.,902.8035763
+1466,Andrew Dietrich,Xavier (Ohio),902.7807
+1467,Jacob Christner,Eastern Washington,902.6535763
+1468,Scott Halsted,San Francisco,902.620283
+1469,Abraham Maldonado,Sacramento St.,902.5785763
+1470,Bryan Corbaz,Tulsa,902.5619975
+1471,Jack Sloan,Eastern Washington,902.5535763
+1472,Frank Rossi,Air Force,902.475
+1473,Miguel Barrera - Lopez,McNeese State,902.1898822
+1474,David Nelsen,Navy,902.0623612
+1475,Joseph Wittig,Air Force,901.95
+1476,JAROD MOSER,Seton Hall,901.9210239
+1477,Pierce Flanders,Kansas State,901.7684093
+1478,Derrick Evans,U. of Victoria,901.5108421
+1479,Jacob Higa,Northern Colorado,901.475
+1480,Alex Plasencia,Minnesota,901.4296468
+1481,Dorrian Gordon,Saint Louis,901.275
+1482,Luke Estes,Texas Tech,901.2369975
+1483,Matt Wisner,Duke,901.1100656
+1484,Nick Howell,Longwood,901.1095185
+1485,AJ Kedge,Air Force,901.075
+1486,Brennan Garriques,Troy,901.0308483
+1487,Garrett Blenkush,Air Force,900.75
+1488,Ackeen Colley,Oklahoma,900.7434093
+1489,Joshua Rahn,UMass Amherst,900.5375634
+1490,Chris Floyd,Air Force,900.475
+1491,Blake Lowery,Florida,900.4229481
+1492,Nate Fedel,Creighton,900.4057
+1493,Cory Landon,Wichita State,900.4046468
+1494,JACKSON SCHENONE,Unattached,900.25
+1495,Nathan Buttry,Northern Colorado,900.1
+1496,Wilson Young,Northern Colorado,900.025
+1497,MATT GOECKEL,Unattached,900
+1498,Jacob Dewitt,Southern Illinois,899.9619975
+1499,Patrick LaCour,TCU,899.7934093
+1500,Roberto Castro,UNC-Asheville,899.4345185
+1501,Casey Conboy,Duquesne,899.35
+1502,Ryan Taylor,DePaul,899.3307
+1503,Geofrey Kemboi,Utah Valley,899.266859
+1504,Aaron Brumbaugh,Santa Clara,898.9669824
+1505,Henry Butz,TCU,898.9184093
+1506,Sean Brown,Lehigh,898.897713
+1507,Michael Renner,Arizona State,898.8608421
+1508,Ben Wagoner,Bradley,898.7369975
+1509,Thomas Porter,Austin Peay,898.6552642
+1510,Tyler Jones,Georgia,898.5296468
+1511,Mark Castaneda,Idaho State,898.5270351
+1512,Brian Spolarich,Pittsburgh,898.4493986
+1513,Boston Small,Creighton,898.3057
+1514,Karson LeComte,Nebraska,898.0434284
+1515,Tayvon Burris,Hampton,897.8095185
+1516,Thomas Nobbs,Washington,897.7046468
+1517,Owen Krewson,Oklahoma State,897.5619975
+1518,Noah Cummisford,Calvin,897.475
+1519,Kurt Loevenstein,Kansas State,897.3434093
+1520,Benjamin Bockoven,Xavier (Ohio),897.3307
+1521,Jordy Hewitt,Michigan,897.0562404
+1522,Michael Laughlin,Dayton,896.991859
+1523,Marek Spriesterbach,Texas A&M-CC,896.7648822
+1524,Hezron Kiptoo,Austin Peay,896.7302642
+1525,Neville Caulfield,Vermont,896.7118493
+1526,Travis Hodge,Kansas State,896.6684093
+1527,Godwin Kimutai,Campbell,896.6200973
+1528,Kavanaugh Fitzpatrick,UNWI,896.4369975
+1529,Tullus Dean,Xavier (Ohio),896.4057
+1530,Chet Goerzen,U. of Victoria,896.2358421
+1531,Joe Spriggs,Radford,896.2345185
+1532,Baldvin Magnusson,Eastern Michigan,896.1851112
+1533,QUINN NICHOLSON,UNA GTOWN,896.1388135
+1534,Nathan Nadal,UMBC,895.7645531
+1535,Antony Kosgei,UTEP,895.65
+1536,Krey Ramsey,Weber State,895.6044474
+1537,Matt Gagen,DePaul,895.5557
+1538,Tommy Consalvo,Quinnipiac,895.4910406
+1539,Seth Brown,Baylor,895.4684093
+1540,Braydon Rennie,Tulsa,895.3619975
+1541,Dane Boegner,TCU,894.9684093
+1542,Jackson Stamper,Creighton,894.7807
+1543,Zac Hoyt,Winthrop,894.7095185
+1544,Ian Gabig,Saint Francis University,894.5623612
+1545,Spencer Tsai,William and Mary,894.5066405
+1546,John Tatter,North Carolina,894.3062404
+1547,Dylan Brokmeyer,TCU,894.1684093
+1548,Justin Allone,Seton Hall,894.0557
+1549,Preston Cates,Arkansas,893.989202
+1550,Will Finch,Central Michigan,893.875
+1551,Payton Stanley,TCU,893.8684093
+1552,Blaine Stuart,TCU,893.6434093
+1553,Ben Iten,Claremont-Mudd-Scripps,893.6358421
+1554,Harrison Thomas,Vanderbilt,893.6229481
+1555,Trevor Dominy,Charleston Southern,893.5877699
+1556,Trevor Dominy,Charleston Southern,893.5877699
+1557,Bryce Hoppel,Kansas,893.5796468
+1558,Zach Black,Iowa State,893.4684093
+1559,Tim Heikkila,North Dakota State,893.4453818
+1560,Nicholas Fraser,UNWI,893.3869975
+1561,Kevin Menyes,Xavier (Ohio),893.3807
+1562,Andrew Stanley,Liberty,893.2546468
+1563,John Bapties,Longwood,893.2345185
+1564,Aiden Smyth,Stony Brook,893.063737
+1565,Tyler Smith,Austin Peay,893.0302642
+1566,Sean Parker,Connecticut,892.8645531
+1567,Cole Kretlow,Seton Hall,892.7557
+1568,Chris Biondi,Stony Brook,892.6046468
+1569,Noah Healy,Iowa,892.566859
+1570,Austin Rendon,UN13,892.5296468
+1571,Cooper Williams,Indiana,892.5119975
+1572,Jaymee Domoney,Charleston Southern,892.5102049
+1573,Liam Belson,UNA2,892.5046468
+1574,Aidan King,Creighton,892.1807
+1575,Cal Johnston,Baylor,892.15
+1576,Nickolas Schmidt,Marshall,892.1123612
+1577,Dylan Allen,Kentucky,892.0479481
+1578,Peter Hayden,Ohio State,892.0329754
+1579,John Oliver,Winthrop,891.8095185
+1580,Theo Hassim,Southern Illinois,891.6869975
+1581,Brandin Affrunte,Seton Hall,891.6807
+1582,Nicholas Fernandes,Houston,891.4648822
+1583,RYAN McNEILLY,Seton Hall,891.2557
+1584,Grayson Brookshire,Morehead State,891.2552642
+1585,Ian Anderson,Boston U.,891.2229103
+1586,Dillon Rising,George Fox,891.0608421
+1587,Daniel Garcia,Butler,891.0601112
+1588,Tate Wyatt,Memphis,891.0308483
+1589,Evan Mitchell,Bradley,890.9119975
+1590,Benjamin Drezek,UMass Lowell,890.8840795
+1591,ASAl BLOOM,Seton Hall,890.8807
+1592,Jacob Wozar,Seton Hall,890.5557
+1593,Carlos Cabrera,Illinois-Chicago,890.5453818
+1594,Zach Weland,Duquesne,890.475
+1595,Jamont Hike-Charles,Hampton,890.4345185
+1596,Kimathi Johnson,Illinois State,890.391859
+1597,Dominic Bruce,DePaul,890.2807
+1598,Nick Kenville,Oklahoma State,890.1869975
+1599,RICHARD STEPHENS,Seton Hall,890.0557
+1600,Ethan Koza,Lehigh,889.9895531
+1601,MATT LEMOINE,Seton Hall,889.9057
+1602,Sirish Modhagala,Seton Hall,889.8307
+1603,Bryce Shirley,Creighton,889.8057
+1604,Julian Perez,Navy,889.6873612
+1605,Meyer Makemsom,Murray State,889.5302642
+1606,Matt Aho,Bradley,889.5119975
+1607,Lukas Nelson,South Dakota St.,889.4237357
+1608,Jorge Estrella,Santa Clara,889.3902759
+1609,Kiro Morkus,Presbyterian,889.1095185
+1610,Zachary Levet,William and Mary,889.1052472
+1611,Zach Cook,Missouri,888.9729481
+1612,Damian O'Boyle,McNeese State,888.8648822
+1613,Thomas Laville,LSU,888.85
+1614,Luke Zacharias,Miss State,888.6058483
+1615,Dan Seas,Ohio,888.5351112
+1616,Seth Slavin,Lehigh,888.5200973
+1617,Brendan Hoff,U. of Victoria,888.5108421
+1618,Luca Chatham,UTSA,888.4871473
+1619,Bailey Hesse-Withbroe,Iowa,888.266859
+1620,Patrick Walsh,Rutgers,888.0579754
+1621,Kieran Schuetterle,Presbyterian,887.8595185
+1622,Reid Parsons,Southern Illinois,887.7869975
+1623,Trent Turbyfill,Davidson,887.4685476
+1624,Colton Nettleton,Saint Louis,887.25
+1625,David Leff,Binghamton,887.1395531
+1626,Nick Porter,Bradley,886.8869975
+1627,Nick O'Keeffe,Longwood,886.6845185
+1628,Jacob Bryan,Southern Illinois,886.5119975
+1629,Joseph Stone,SIU Edwardsville,886.2302642
+1630,Todd Gunzenhauser,Charlotte,886.2119975
+1631,Eddie Zeurcher,Eastern Michigan,886.0351112
+1632,Michael Church,Southern Illinois,885.9869975
+1633,Mikolaj Krajewski,Unattached,885.9858421
+1634,Fahd Nasser,Princeton,885.8119975
+1635,Bennett Barnett,Texas Tech,885.6869975
+1636,Jonathan Sandlund,Baylor,885.675
+1637,Connor Hughes,Texas Tech,885.5869975
+1638,Luke Harmon,Presbyterian,885.5595185
+1639,Raymon Ornelas,Long Beach St.,885.1002875
+1640,Kyle Bussard,Ohio,884.9888135
+1641,Brenden Miller,Saint Francis University,884.9623612
+1642,Michael Germinario,Elon,884.8185476
+1643,Joey Palumbo,Tennessee-Martin,884.6552642
+1644,Jacob Korgan,Nebraska,884.5329754
+1645,Jake Lane,Winthrop,884.4845185
+1646,Kendall Muhammad,Kentucky,884.4751233
+1647,Andrew Pilat,Eastern Illinois,884.15
+1648,Jonathan Wenning,Bowling Green,883.5351112
+1649,Will Kimball,Claremont-Mudd-Scripps,883.5108421
+1650,Samuel Hermanns,Gardner-Webb,883.4595185
+1651,PJ Murray,Johns Hopkins,883.2450973
+1652,Austin Byrer,Weber State,883.149481
+1653,Adam Herrera,Incarnate Word,882.8574709
+1654,Edgard Villa,Cal St. Fullerton,882.8252875
+1655,Sam Williamson,Purdue Fort Wayne,882.675
+1656,Bogdan Podgaisky,Gardner-Webb,882.4845185
+1657,Reed Brown,Oregon,882.4589884
+1658,David Vorbach,Columbia,882.2094613
+1659,Allen Clark,Furman,882.1829028
+1660,Tom Moulai,Kentucky,882.0979481
+1661,Corey Champion,Jacksonville St.,881.6552642
+1662,Zaire Huyghue,Hampton,881.5595185
+1663,Haydon Cooper,Utah State,881.4055125
+1664,Micah Meindertsma,Calvin,881.25
+1665,Jonny Toombs,U. of Victoria,881.0608421
+1666,Jake Birdsong,Presbyterian,880.6845185
+1667,Joe Grandizio,Boston U.,880.6450973
+1668,Daniel Flores,Grand Canyon,880.5752875
+1669,Benjamin Finnigan,Mount St. Mary's,880.3373612
+1670,Daniel Davis,Austin Peay,880.2302642
+1671,Daniel Shaughnessy,Clemson,879.875
+1672,Nathaniel Sayles,Gardner-Webb,879.8595185
+1673,Eli Canal,Texas A&M,879.6979481
+1674,Isaac Benz,Appalachian State,879.5935476
+1675,Connor Hendrickson,Virginia,879.2350656
+1676,Jan Figueroa,Florida Gulf Coast,879.1558483
+1677,Alex Johnson,Presbyterian,879.0845185
+1678,Tyler Bradley,Murray State,878.8552642
+1679,Niall Holt,McNeese State,878.7398822
+1680,Joey Angelina,St. Joseph's (Pa.),878.7395531
+1681,Alexander Hirsch,Claremont-Mudd-Scripps,878.6358421
+1682,Jack Mader,Valparaiso,878.6101112
+1683,Taylor Clayton,Texas A&M,878.5729481
+1684,John Lewis,Clemson,878.55
+1685,Timothy Depue,Charleston Southern,878.3595185
+1686,Gabriel Haughey,Portland,878.2312404
+1687,Jordan Koczenasz,Dayton,878.141859
+1688,Nick Feffer,Dartmouth,878.0700973
+1689,Cole Clever,Morehead State,877.5302642
+1690,Bryce Statham,Florida,877.4979481
+1691,Matthew O'Neill,Duquesne,877.275
+1692,Ethan Blevins,Charleston Southern,877.0595185
+1693,Peter Borger,Richmond,876.9404017
+1694,Bradley Dixon,Troy,876.8808483
+1695,Joshua Bowers,Charleston Southern,876.4845185
+1696,Jordan Leon,Sam Houston St.,876.2898822
+1697,Chris Weiland,Mt. SAC,876.2358421
+1698,Alex Stamper,Kent State,876.1851112
+1699,Kyle Griffith,Purdue,876.0735941
+1700,Robert Peck,Purdue Fort Wayne,876.025
+1701,Julien Jeandree,Central Arkansas,876.0218692
+1702,Jack Franklin,Bradley,875.879324
+1703,Louis DiLaurenzio,Monmouth,875.8373612
+1704,Jack Carmody,Vermont,875.5200973
+1705,Christian Bird,Charleston Southern,875.4845185
+1706,Andrew Comito,Rutgers,875.4579754
+1707,Jacob Coccia,USC Upstate,875.0595185
+1708,Jacob Coccia,USC Upstate,875.0595185
+1709,Alexander Mcclelland,Murray State,875.0302642
+1710,Colby Caviness,Clemson,874.8
+1711,Mitchell Brown,Gardner-Webb,874.6845185
+1712,Joe Limo,Radford,874.3595185
+1713,Joe Limo,Radford,874.3595185
+1714,Johnathan Condly,Temple,874.341859
+1715,Dorian Jones,USC Upstate,874.0845185
+1716,William Daly,Penn,874.0095294
+1717,Bradley Dohner,Rice,873.8648822
+1718,Luis Armendariz,Cal Poly,873.8608421
+1719,Adam Huff,Charleston Southern,873.8595185
+1720,Andrew Abel,Austin Peay,873.8552642
+1721,Dustinj Starnes,IUPUI,873.7851112
+1722,Hayden Courrege,LSU,873.625
+1723,Drew Thomas,Charleston Southern,873.5595185
+1724,Trayvon Harris,Charleston Southern,873.4845185
+1725,Keith Terry,Charleston Southern,873.4595185
+1726,Joshua Clark,St. Joseph's (Pa.),873.2645531
+1727,Genaro Anzalone,Rutgers,873.1579754
+1728,Austin Scola,Providence,873.1250459
+1729,Aaron Gebhart,Charlotte,873.0562404
+1730,Darby Pillow,Morehead State,872.7302642
+1731,Nick Hutchison,Rutgers,872.5579754
+1732,Markus Schweikert,Central Arkansas,872.5415905
+1733,Samuel Moran,Purdue Fort Wayne,872.5
+1734,James Konugres,Santa Clara,872.491859
+1735,Cade Hindley,Rutgers,872.1579754
+1736,Nick Miller,Ohio State,872.0329754
+1737,Billy Hill,Rutgers,871.9579754
+1738,Will Berger,Rutgers,871.9329754
+1739,Harrison Tillman,Texas A&M,871.9229481
+1740,Alec Sandusky,Northern Kentucky,871.9185476
+1741,Matthew Arnold,Lamar,871.8487986
+1742,Riley Slone,Jacksonville St.,871.6552642
+1743,Trey Burleson,Richmond,871.5802485
+1744,Peter Weiss,George Fox,871.5108421
+1745,Gerard Gill,New Jersey Institute,871.4623612
+1746,Jeff Kirwin,Baylor,871.425
+1747,Jarit Perkins,IUPUI,871.4101112
+1748,Zack Penrod,Wichita State,871.0275966
+1749,Colin FitzGerald,California,870.666859
+1750,Charlie Samarzich,SE Missouri,870.6302642
+1751,Danny Daurio,Rider,870.5645531
+1752,Oaklee Hauschild,Missouri,870.4229481
+1753,Antonio Carbajal,UC Riverside,870.4
+1754,Jonathan Schwind,Lipscomb,870.2058483
+1755,Jacob Smith,Cal St. Fullerton,869.7002875
+1756,Larry McNary,Tennessee St.,869.6552642
+1757,Spencer Dodds,Virginia,869.6329236
+1758,Blake Baldassaro,LSU,869.425
+1759,Sean Sullivan,Boston College,869.2100656
+1760,Charlie Harris,Claremont-Mudd-Scripps,869.1858421
+1761,Andy Smith,Auburn,869.1229481
+1762,Pedro Flores,Stephen F. Austin,869.0898822
+1763,Griffin Barger,Dayton,868.891859
+1764,Nash Young,Austin Peay,868.7302642
+1765,Matthew Estopinal,Vanderbilt,868.5479481
+1766,Garrett Hamilton,LSU,868.5
+1767,Jared Hamilton,Central Arkansas,868.4718047
+1768,Nicholas Neamtu,Canisius,868.2979103
+1769,Zach Israel,Lipscomb,868.0308483
+1770,Jesse Millson,Florida,868.0229481
+1771,Bobby Hastie,St. Joseph's (Pa.),867.8895531
+1772,Joseph Redman,Austin Peay,867.8552642
+1773,Jackson Higley,Saint Louis,867.6
+1774,Christian Slone,Murray State,867.0052642
+1775,Ben Weir,U. of Victoria,866.8858421
+1776,Markus Kopp,McNeese State,866.7648822
+1777,Kyle Montgomery,LSU,866.725
+1778,Thomas Mosley,Tennessee St.,866.1802642
+1779,Alex Barton,Purdue Fort Wayne,865.9
+1780,Lucas Mowery,Vanderbilt,865.6229481
+1781,Grant Hauver,UMass Lowell,865.5200973
+1782,Tony White,Jacksonville St.,865.4052642
+1783,Patrick Perrier,Vanderbilt,865.2229481
+1784,Isaiah Page,UTEP,865.125
+1785,Kyril van Schendel,Claremont-Mudd-Scripps,865
+1786,Fearghal Curtin,Arizona State,864.7939535
+1787,John Frieson,Tennessee St.,864.6802642
+1788,Joshua Velasco,LA Harbor,864.6108421
+1789,Brandon Shields,UC Riverside,864.4
+1790,Nick Steele,Villanova,864.2004414
+1791,Seth Emmenegger,Jacksonville St.,864.0052642
+1792,JT Mackay,Miss State,863.8058483
+1793,Kurt Unger,Purdue Fort Wayne,863.725
+1794,Donovan Mears,Temple,863.4768558
+1795,Jeremiah Burns,Jacksonville St.,863.3802642
+1796,Austin Rockstroh,Purdue Fort Wayne,863.1
+1797,Cody Kingman,UMass Lowell,863.0700973
+1798,Michael Wyman,Providence,862.8505354
+1799,Marcus Abdul,Tennessee St.,862.8052642
+1800,Riley Hughes,Marist,862.7729103
+1801,Anthony Hawthorne,La Salle,862.5895531
+1802,Henry Huff,Baylor,862.525
+1803,Martin Luevano,UTSA,862.3608421
+1804,Nick Morrison,Jacksonville St.,862.2802642
+1805,Sergio Armendariz,Sam Houston St.,862.1898822
+1806,Michael Lee,LSU,861.975
+1807,Quintsontro Irby Jr.,Tennessee St.,861.8052642
+1808,George Letner,Kansas,861.686385
+1809,Allan Ortiz,UTEP,861.45
+1810,Marcello Marrero,Jacksonville St.,861.3802642
+1811,Dylan Sykes,Miami,861.2850656
+1812,Russell Waters,Tennessee St.,861.0052642
+1813,Jordan Finlay,Wis.-Green Bay,860.975
+1814,Cole Ralenkotter,Morehead State,860.6802642
+1815,Kendall Westhoff,UMass Amherst,860.6450973
+1816,Michael Sims,UTEP,860.55
+1817,Dan Lathrop,Illinois,860.5062404
+1818,Josh Grogan,Morehead State,860.4052642
+1819,Stephen Pipilas,Loyola (Ill.),860.2953818
+1820,Gable Dershem,Appalachian State,860.2937059
+1821,Kevin Davis,Wis.-Green Bay,860.175
+1822,Collin De Julio,Unattached,860.1358421
+1823,Ryan Rafferty,Monmouth,859.9645531
+1824,Jemal Wote,Houston,859.9398822
+1825,Zachary Sleeman,Central Michigan,859.9101112
+1826,Kole Pettit,Jacksonville St.,859.8802642
+1827,Whitlock Caleb,Purdue Fort Wayne,859.85
+1828,Matthew O'Connor,SIU Edwardsville,859.8052642
+1829,Michael Thompson,Tennessee St.,859.7802642
+1830,Fynn Timm,North Florida,859.6808483
+1831,Daniel Maes,UTEP,859.575
+1832,Blake Bennett,Grand Canyon,859.3502875
+1833,Edgar Gonzalez,UTEP,859.35
+1834,Jasper Rosenau,Wis.-Green Bay,859.15
+1835,Bryce Legois,Wis.-Green Bay,858.975
+1836,Ben Ewert,Louisville,858.9600656
+1837,Humberto Freire,Florida State,858.941859
+1838,Andre Bollam-Godbott,Akron,858.8638135
+1839,Adam Plough,Wis.-Green Bay,858.85
+1840,Jacob Fierst,Wis.-Green Bay,858.775
+1841,Dylan Dombi,Youngstown St.,858.75
+1842,Matt Harper,Louisville,858.7100656
+1843,Daniel Fleace,Louisville,858.5438379
+1844,Matthew Wiefels,Miami,858.4850656
+1845,Henrik Anderson,Georgia Tech,858.2450973
+1846,Martin Prodanov,Missouri,858.2413631
+1847,James Hassell,Miami,858.1850656
+1848,Samuel Fleischman,Miami,858.0850656
+1849,Sean Hagert,Miami,858.0100656
+1850,Taj Bland,Miami,857.9850656
+1851,Michael Ramirez,San Bernardino Valley,857.9608421
+1852,Anthony Cordero,SE Louisiana,857.7148822
+1853,Max Selbach,UMKC,857.6953818
+1854,Ryan Guenthner,Cincinnati,857.6851112
+1855,Brett Haffner,Illinois State,857.416859
+1856,Caleb Washington,Army West Point,857.3479103
+1857,James Wilkes,New Hampshire,855.8700973
+1858,Alex Torres,Fresno Pacific,855.8108421
+1859,Daniel Glick,Troy,855.6558483
+1860,Spencer Brown,Georgetown,855.5584248
+1861,Alexander Ratkovich,IUPUI,855.4851112
+1862,Ben Cignarale,Appalachian State,855.3937059
+1863,Brixton Rill,Illinois-Chicago,855.1203818
+1864,Solomon Fountain,Columbia,854.7895531
+1865,Daniel Maneloveg,San Francisco,854.3752751
+1866,Evans Kipchumba,Tulane,854.137988
+1867,Nik Sjogren,Unattached,853.6858421
+1868,Stephen Flanagan,Northeastern,853.5200973
+1869,Stephen Aguilar,Houston Baptist,853.3898822
+1870,Matt Bridger,La Salle,853.2373612
+1871,Iolo Hughes,New Mexico,852.6075216
+1872,Akhil Ghosh,Loyola (Ill.),852.5703818
+1873,James Maniscalco,Connecticut,852.2395531
+1874,Adam Gonzalez,Fresno Pacific,851.5858421
+1875,Anthony Haren,Grand Canyon,851.5002875
+1876,Benjamin Cracraft,Navy,851.3623612
+1877,Justin Kelly,Stony Brook,851.1950973
+1878,Brian Kettle,Michigan State,850.7690652
+1879,Ryan Johnston,Louisville,850.6446021
+1880,Jared Lautenslager,UT-Arlington,850.291859
+1881,Angus White,Providence,849.948969
+1882,Lake Spradling,Miss State,849.8558483
+1883,Eric Smart,UMBC,849.7145531
+1884,Pedro Sepulveda,UTSA,849.5108421
+1885,Steven Galli,Texas A&M-CC,849.1648822
+1886,Charlie Ellenbecker,Wis.-Milwaukee,849.0351112
+1887,Luke Peterson,North Carolina,848.8950973
+1888,Nathan Mack,Mid. Tenn. State,847.9808483
+1889,Heath Warren,Oklahoma,847.691859
+1890,Reece Donihi,New Mexico,847.5915791
+1891,Wilson Ives,Claremont-Mudd-Scripps,847.4608421
+1892,Thomas Flannery,Buffalo,847.2145531
+1893,Jesse Hunt,North Carolina,846.6138135
+1894,Tom Long,Rider,846.535967
+1895,Devin Paredes,Adams State,845.4358421
+1896,Garrett Condelario,Idaho State,845.4180248
+1897,Mitchell Towne,Miami (Ohio),845.216859
+1898,Chace Hale,Kansas,845.1885382
+1899,Zach Dale,Illinois,845.0665154
+1900,Nicholas Hamilton,Houston,845.0648822
+1901,Marcus Johnson,UMKC,845.0453818
+1902,Peter Garmon,Connecticut,844.7395531
+1903,Samuel Boone,Arkansas,844.2388135
+1904,Jeremie Venne,Saint Francis University,844.1123612
+1905,Calvin Butlak,Albany,844.0979103
+1906,Evaristo Mateo,San Jose St.,843.4358421
+1907,Christian Alberico,Iona,843.3510575
+1908,Cameron Laverty,Houston,843.0648822
+1909,Kevin Lawson,Dayton,842.891859
+1910,Jacob Wickert,Akron,842.8101112
+1911,Evan Babatz,South Florida,842.5308483
+1912,Jorge Perez,Oklahoma State,842.3528381
+1913,Andrew Carlin,George Mason,842.2895531
+1914,Jared Gonzalez-Perez,Utah Valley,841.766859
+1915,Isaiah Lozano,UC Santa Barbara,841.4608421
+1916,Alex Hanson,Central Arkansas,841.2935211
+1917,Oscar Leyva,Texas A&M-CC,841.0898822
+1918,Nick Grismer,Cincinnati,840.7851112
+1919,Jorge Quintero,Incarnate Word,840.691859
+1920,Oussama Chouati,Maryland-Eastern Shore,840.6873612
+1921,Nick Chudzik,Loyola (Ill.),840.1203818
+1922,Tim Euler,Monmouth,839.8645531
+1923,Zach Gentry,Oklahoma,839.666859
+1924,Thomas Broatch,British Columbia,839.5108421
+1925,Bailey Timmons,Nebraska,839.4393678
+1926,Luke Petela,Vermont,839.2408664
+1927,Hunter Henderson,Central Arkansas,839.1398822
+1928,Nick Michalowski,Wis.-Milwaukee,838.7851112
+1929,Christian Raslowsky,Santa Clara,838.666859
+1930,Jonathan Lomogda,Yale,838.6625832
+1931,Tyler Dau,Florida State,837.691859
+1932,Ralph Mendoza,Mt. SAC,837.5858421
+1933,Robert Whitney,Cornell,837.4645531
+1934,Caden Hercules,Mid. Tenn. State,837.3558483
+1935,Greyson Winiger,Eastern Kentucky,837.2638135
+1936,Austin Ballow,Louisiana Tech,837.2148822
+1937,Paul Bete,Ohio State,836.8179854
+1938,Andrew Doherty,Oklahoma,836.766859
+1939,Jonathan Besselink,Wagner,836.4229103
+1940,Cole Hoff,Duke,836.0116888
+1941,Austin Barry,Lafayette,835.7373612
+1942,Luis Huerta,Mt. SAC,835.6858421
+1943,Benjamin Klemmeck,Liberty,835.64339
+1944,Paul Squires,Liberty,835.4115607
+1945,Grayson Birka,UT-Arlington,835.3148822
+1946,Jonathon Connor,Connecticut,835.0895531
+1947,Harry Monroe,Virginia,834.9888135
+1948,Ian Crowe-Wright,New Mexico,834.8312404
+1949,Seth Eliason,Minnesota,834.7179854
+1950,Tyler Martin,Incarnate Word,834.2712019
+1951,Paul Knepple,Richmond,834.2215002
+1952,Kyle Vernot,Dayton,834.166859
+1953,Nathan Galloway,Loyola (Md.),834.1623612
+1954,Arye Beck,Stetson,834.0308483
+1955,Alex Hogue,Marist,833.8979103
+1956,William Fallini-Haas,Unattached,833.8108421
+1957,Declan Hines,Col. of Charleston,833.6763713
+1958,Robert Miranda,Yale,833.6305125
+1959,Takeshi Okada,California,833.6252875
+1960,Ben Harper,California,833.391859
+1961,Victor Garifo,Stony Brook,832.7395531
+1962,Colin Kelly,Saint Francis University,832.6123612
+1963,Mathew Kibet,Alabama State,832.4058483
+1964,Manuel Carranza,Fresno Pacific,831.9858421
+1965,Jake Gillum,Illinois State,831.916859
+1966,Micah Mather,South Dakota St.,831.5805125
+1967,Ian Denis,Vermont,831.3950973
+1968,Evan Misuraca,Santa Clara,831.241859
+1969,Connor McCabe,Arizona,831.1260364
+1970,Thomas Anthony,Lafayette,831.0873612
+1971,Matt Brooks,Wis.-Milwaukee,831.0351112
+1972,Chris Corcoran,Florida State,830.591859
+1973,Camron Roehl,North Dakota State,830.5703818
+1974,Michael Reilly,Georgia Tech,830.5138135
+1975,Uriel Medina,Cal St. Fullerton,830.3252875
+1976,Jake Smith,UTSA,830.1858421
+1977,Cooper Jansson,Elon,830.03005
+1978,Coy Smith,Marshall,829.5873612
+1979,Zachary Prescott,Boston U.,829.4195783
+1980,Christopher Gonzalez,Incarnate Word,829.391859
+1981,Mark Myers,North Carolina,829.3200973
+1982,Dismas Koech,Toledo,829.1601112
+1983,Luke George,Oklahoma,828.841859
+1984,jeremy dvorak,Unattached,828.4108421
+1985,Israel Orihuela,Incarnate Word,828.316859
+1986,Zachary Lanigan,Brown,828.3138135
+1987,Paul Casavant,Cornell,828.0645531
+1988,Tim Jones,North Texas,828.0398822
+1989,Hawk Call,Utah Valley,827.841859
+1990,Connor Butterfield,UT-Arlington,827.416859
+1991,Nick Stricklen,Akron,827.3213487
+1992,Michael Mitchell,Lehigh,827.2700973
+1993,Gregory Mathias,Navy,826.6873612
+1994,Ian Kebenei,Arizona State,826.6608421
+1995,Brandon Edmondson,Utah Valley,826.641859
+1996,Kyle Burks,Indiana,826.3693896
+1997,Spencer Herbstritt,Incarnate Word,826.316859
+1998,Zachary Barthel,SE Louisiana,826.2898822
+1999,Zach Zimmerman,Ohio,826.1388135
+2000,John O'Hagan,Santa Clara,826.016859
+2001,Jon Dooling,George Washington,825.7645531
+2002,Derek King,Oklahoma,825.741859
+2003,Ethan Donley,Kansas,825.5555125
+2004,Joseph Biehl,Grand Canyon,825.5252875
+2005,Eliseo Rodriguez,UT-Arlington,825.516859
+2006,Dominic Paoletti,Valparaiso,825.4851112
+2007,Lucas Capistrant,Illinois State,825.316859
+2008,Nikolaus Moore,California,825.141859
+2009,Brady Steele,UT-Arlington,825.016859
+2010,Xander Olivero,Santa Clara,824.941859
+2011,Adrian Hernandez Jr.,Mt. SAC,824.9358421
+2012,Victor Bocanegra,UT-Arlington,824.866859
+2013,John Green,Lipscomb,824.7808483
+2014,Alec Snell,New Orleans,824.5648822
+2015,Isaac Schmidt,Montana State,824.0049802
+2016,Michael Neeson,Lafayette,823.9123612
+2017,Solomon Costa,Eastern Michigan,823.6851112
+2018,Gabe Peters,South Dakota St.,823.5805125
+2019,Nick Norton,Lehigh,823.4895531
+2020,Scott Pourshalchi,Johns Hopkins,823.2450973
+2021,Adam Wilkinson,Claremont-Mudd-Scripps,823.2358421
+2022,Mason Youberg,Louisiana Tech,822.8898822
+2023,Matt Hynes,Vermont,822.7212246
+2024,Anthony Alfaro,Cal St. Fullerton,822.4502875
+2025,Jonathan Werble,Florida Atlantic,821.9558483
+2026,Toni Banos,Cincinnati,821.9101112
+2027,Nick Shampoe,Arizona State,821.5608421
+2028,CJ May,Northern Iowa,821.4203818
+2029,Adam Cortez,SE Louisiana,821.2398822
+2030,Patrick Craemer,Una.,821.2395531
+2031,Mitchel Wileczek,Mount St. Mary's,821.2373612
+2032,Tristen Montalvo,Stetson,820.5808483
+2033,Rhys Kramer,British Columbia,819.9108421
+2034,Trevor Dominy,Charleston Southern,819.7112565
+2035,Jonathan Hernandez,Nicholls State University,819.6148822
+2036,Colin Ross,Davidson,819.3977864
+2037,Jonathan Gay,Albany,819.1979103
+2038,Nat Romaine,East Carolina,819.13005
+2039,Jake Lonsdale,George Mason,819.0145531
+2040,Patrick Cropsey,Loyola (Md.),818.7123612
+2041,Kaeo Kruse,Harvard,818.5689876
+2042,Chandler Maciel,Fresno Pacific,818.2858421
+2043,Robert Spies,New Jersey Institute,817.4873612
+2044,Andrew Ciaccia,East Carolina,817.00505
+2045,Walmer Saavedra,Illinois-Chicago,816.9953818
+2046,Kellen Manley,Gonzaga,816.9850148
+2047,Jacob Burgamy,Campbell,816.8277953
+2048,Conner James,George Washington,816.8145531
+2049,Jeremy Breedlove,IUPUI,816.7351112
+2050,Chris Sobczak,Simon Fraser,816.6858421
+2051,Ricardo Mendoza,UT-Rio Grande Valley,816.4398822
+2052,Alex Doran,Johns Hopkins,815.3950973
+2053,Brett Hickman,Unattached,815.1108421
+2054,Noah Corbett,Ohio State,814.9721945
+2055,Wade Garner,Arkansas-Pine Bluff,814.9148822
+2056,Ben Evans,Temple,814.6395531
+2057,Danny Ferro,South Florida,814.1058483
+2058,Lachlan Shiver,Florida Atlantic,812.9058483
+2059,Victor Yegon,Lehigh,812.4895531
+2060,Gavin Korby,Long Beach St.,812.4752875
+2061,Thomas Teachen,UMass Lowell,812.3031601
+2062,Jonathan Pelham,Georgia,812.3013976
+2063,Nathan Garcia,Cal St. Monterey Bay,812.0858421
+2064,Juan Salinas,Texas A&M-CC,811.9398822
+2065,Christian Stevens,Cincinnati,811.7851112
+2066,Abbas Abbkar,Savannah State,811.7308483
+2067,Josh Higgins,Pittsburgh,811.6200973
+2068,Ashton Garcia,UC Irvine,811.1502875
+2069,Colin Loy,Appalachian State,810.78005
+2070,Mathew David,UTSA,810.6108421
+2071,Matthew Schaefer,Northeastern,810.6090843
+2072,John Marting,Florida Atlantic,810.5808483
+2073,Patrick Dougherty,Tulane,810.4898822
+2074,Liam Kennell,Southern Utah,810.4852905
+2075,Evan Jerolaman,Monmouth,810.3645531
+2076,Philip Hall,North Carolina St.,809.9062404
+2077,Conor Stack,Marist,809.8479103
+2078,Ben McCoy,Brown,809.7700973
+2079,Taylor Vroon,Belmont,809.5083826
+2080,Josh Rodriquez,UTSA,809.1608421
+2081,Daniel Figueroa,Nicholls State University,809.0648822
+2082,Hayden DiBona,Col. of Charleston,808.73005
+2083,Noah Perrin,Eastern Michigan,808.6101112
+2084,Chantz Visse,Loyola (Ill.),808.4453818
+2085,Caden Foos,Miss State,808.3558483
+2086,Michael McDonald,UMass Amherst,807.9450973
+2087,Brian Clayton,Lafayette,807.7623612
+2088,Isaiah Gonzalez,San Bernardino Valley,807.7358421
+2089,Shaun Hopkins,Akron,807.6888135
+2090,Lucky Schreiner,Columbia,807.5479103
+2091,Jessie Boyett,Memphis,807.2808483
+2092,Michael Russell,New Jersey Institute,806.8373612
+2093,Andrew Southard,Coastal Carolina,806.70505
+2094,Connor Danielson,North Dakota,806.3703818
+2095,Cameron Priest,Unattached,806.3358421
+2096,Alex Turnock,Jacksonville,806.2558483
+2097,Colin Cannon,George Mason,806.1645531
+2098,Ryan Ansel,Quinnipiac,806.1450973
+2099,Ryan Budhu,New Jersey Institute,805.9373612
+2100,Jakob Wickert,Akron,805.7638135
+2101,Nick Rink,Minnesota,805.7429854
+2102,Benjamin Eddy,Charleston Southern,805.5032629
+2103,Suhieb Mohamed,Savannah State,805.2558483
+2104,Charles Mills,Texas,805.0827571
+2105,Mark DiPaola,Lafayette,805.0623612
+2106,William Harrell,Louisiana Tech,805.0148822
+2107,Josh Meyer,George Fox,804.9608421
+2108,Dawson Connell,William and Mary,804.70505
+2109,Zach Weaver,Miss State,804.2808483
+2110,Brian Hackman,Saint Francis University,804.2123612
+2111,Conor Malanaphy,Stony Brook,804.0895531
+2112,Abel Nijakowski,Bowling Green,804.0351112
+2113,Caleb McClain,San Francisco,803.9533681
+2114,Cooper Leslie,William and Mary,803.8304341
+2115,Ariel Conde,LA Harbor,803.6108421
+2116,Reece Duff,Stetson,803.3308483
+2117,Evan Whittaker,Canisius,803.0229103
+2118,David Sadvary,Lafayette,802.6123612
+2119,Trevor Wenzel,Wis.-Milwaukee,802.5601112
+2120,Noah Elder,Louisiana Tech,802.4398822
+2121,Roberto Mazzone,British Columbia,802.2858421
+2122,Tyji Mays,Temple,802.0395531
+2123,Matt Neeley,South Florida,801.5308483
+2124,Cade Brown,Yale,801.5055125
+2125,Koy Moore,Southern Utah,801.4582694
+2126,Mitchell Basher,U. of Victoria,800.9858421
+2127,Jackson Morton,Pittsburgh,800.8950973
+2128,Evans Kibet,Siena,800.7979103
+2129,Dennis Kipkorir,Mid. Tenn. State,800.6808483
+2130,Zachary White,Saint Francis University,800.4373612
+2131,Merga Gemeda,South Dakota,800.2953818
+2132,Cameron Theriot,Sam Houston St.,800.0148822
+2133,Nicholas Smart,La Salle,800.0145531
+2134,Payne Meyer,Stetson,799.8558483
+2135,Carlos DeLaTorre,San Bernardino Valley,799.7108421
+2136,Noah Carey,Penn,799.6437791
+2137,Connor Delahanty,Johns Hopkins,799.1950973
+2138,Ryan Branch,Lafayette,799.1373612
+2139,Michael Peppy,Canisius,798.5979103
+2140,Joel Swiatkowski,Cal St. Monterey Bay,798.4858421
+2141,Elliott Stone,North Dakota State,798.3203818
+2142,Kurt Convey,Penn,798.3138135
+2143,Allen Siegler,Yale,798.1305125
+2144,Kevin Dorsey,Mount St. Mary's,797.9623612
+2145,Terrence Sessoms,Savannah State,797.5308483
+2146,James Garbier,Northeastern,797.5200973
+2147,Jake Fowler,Loyola (Md.),797.4123612
+2148,Joseph Dicke,Arizona State,797.2858421
+2149,Ricardo Cardenas,Long Beach St.,796.9752875
+2150,Cameron Stephens,Louisville,796.8544504
+2151,Cameron Pack,Savannah State,796.8058483
+2152,Brandon Rossi,Loyola (Md.),796.4123612
+2153,Joseph Prunty,Holy Cross,796.3979103
+2154,Keiser Freetly,North Dakota State,796.3703818
+2155,Spencer Elmore,George Fox,796.1108421
+2156,Quinn Serfass,Temple,796.0395531
+2157,John Akakeya,Maryland-Eastern Shore,795.9623612
+2158,Andrew Matson,Georgia Tech,795.8700973
+2159,Mauricio Ramos,San Bernardino Valley,795.6475676
+2160,Joel Krznaric,Marshall,795.5373612
+2161,Daniel Smith,Tennessee-Martin,795.498162
+2162,Matthew Lara,Texas A&M-CC,795.4898822
+2163,Sahlu Atakilti,Savannah State,795.4808483
+2164,Samuel Miller,Loyola (Md.),795.1373612
+2165,Luis Garcia,San Bernardino Valley,794.9608421
+2166,Austin Camps,South Florida,794.8558483
+2167,Ryan Vaught,Marshall,794.7623612
+2168,Mason Gatewood,Penn,794.7388135
+2169,Brock Collins,Central Arkansas,794.4797019
+2170,Kyle Faddis,Boston College,794.2450973
+2171,Victor Fortin,Valparaiso,794.2351112
+2172,Matt Bodon,Monmouth,794.0895531
+2173,Riley Collins,Montana State,793.8679854
+2174,William Fuchs,Cal Poly Distance Club,793.8358421
+2175,Jericho Cooey,Florida Atlantic,793.6808483
+2176,David Essel,New Jersey Institute,793.5623612
+2177,Levi Chambers,Abilene Christian,793.4148822
+2178,Cash Tampa,South Florida,793.1558483
+2179,Alexander Buchholz,Loyola (Md.),793.1373612
+2180,Steve Vazquez,New Jersey Institute,792.9623612
+2181,Ryan Dunn,Wright State,792.9351112
+2182,Daniel Plunkett,SE Missouri,792.8743184
+2183,Tyler Schoch,Loyola (Md.),792.7373612
+2184,Matthew Morris,Cal St. Monterey Bay,792.7358421
+2185,Daniel Eagan,South Florida,792.6558483
+2186,Nicholas Ramirez,New Jersey Institute,792.5873612
+2187,Alex Bartholomay,North Dakota State,792.5453818
+2188,Ethan Suire,New Orleans,792.4148822
+2189,Ben Bumgarner,Penn State,792.1929802
+2190,Sean Barone,Florida Atlantic,792.1808483
+2191,Erick Juarez,Cal St. Fullerton,792.1002875
+2192,Javier Ubaldo,Unattached,791.6608421
+2193,Travis Nichols,Abilene Christian,791.4398822
+2194,Myles Fleming,Nebraska,791.3445218
+2195,Brandon Tubby,North Carolina,791.0700973
+2196,Justin Loquercio,Missouri,790.8458873
+2197,Adam Klein,Arizona State,790.6108421
+2198,Josiah Perez,Louisiana Tech,790.5148822
+2199,Jack Lalonde,Illinois,790.419921
+2200,Jack Worman,Valparaiso,790.4101112
+2201,Austin Carroll,Charlotte,790.40505
+2202,Patrick Bayuex,Columbia,790.2645531
+2203,Ricardo Reyes,South Florida,790.2058483
+2204,William Kachman,Lipscomb,789.6308483
+2205,Lucas Marcello,New Orleans,789.6148822
+2206,Timothy Kaelin,George Fox,789.5858421
+2207,Nicolas Sevilla-Connelly,New Hampshire,789.5200973
+2208,Wayne Richards,Long Beach St.,789.4752875
+2209,Charles Cooper,Duke,789.4571282
+2210,Phoenix Myers,Eastern Michigan,789.1601112
+2211,Chandler Underwood,Miss State,789.1558483
+2212,Cristian Moreno,Florida Atlantic,788.9808483
+2213,Octopias Ndiwa,Alabama,788.8308483
+2214,Ross Rabalais,Florida Atlantic,788.7058483
+2215,Chase Ballard,Belmont,788.6447753
+2216,James Sever,UC Riverside,788.6252875
+2217,Warno Potgieter,South Alabama,788.6058483
+2218,Jonathan Matson,Fresno Pacific,788.5858421
+2219,Nick Morken,North Florida,788.5308483
+2220,Tyler Fox,Georgia,788.4805125
+2221,Samuel Craig,Stetson,788.4558483
+2222,Stephen Schulz,Syracuse,787.9950973
+2223,Alex Cotter,Wis.-Milwaukee,787.9351112
+2224,Bryant White,SE Louisiana,787.8898822
+2225,Christopher Perillo,Albany,787.8479103
+2226,Trevor Stangle,Long Beach St.,787.8002875
+2227,Jeffrey Moore,Sam Houston St.,787.0648822
+2228,Roman Jennings,IUPUI,786.7351112
+2229,Alex Mocarski,Cornell,786.5395531
+2230,Nicholas Phillips,New Orleans,786.2898822
+2231,Connor Olson,Minnesota,786.0179854
+2232,Jessi Cuellar,LA Harbor,785.7358421
+2233,Joe Petty,Idaho State,785.4055125
+2234,Matt Cozine,Drake,785.0953818
+2235,David Bergamasco,Charleston Southern,785.0048183
+2236,Patrick Dye,Johns Hopkins,784.9950973
+2237,William Conner,Charlotte,784.98005
+2238,Hunter Moore,Indiana,784.9062404
+2239,Jacob Skarr,LA Harbor,784.8608421
+2240,Sebestian Bautista,UC Irvine,784.7502875
+2241,Marcos Macias,Tennessee-Martin,784.4554433
+2242,Jake Papish,Toledo,784.4101112
+2243,Mark Golay,New Orleans,784.1148822
+2244,Michael Merchan,Cal St. Northridge,784.0502875
+2245,Liam Foster,Simon Fraser,784.0108421
+2246,John O'Hara,Siena,783.7229103
+2247,Joe Boyle,La Salle,783.5432629
+2248,Brendan McGill,Bucknell,783.5200973
+2249,Thomas Mueller,Detroit Mercy,783.2851112
+2250,Mitchell Poynter,Penn,782.9638135
+2251,Morgan Cupp,Cornell,782.8645531
+2252,Josh Gibbs,George Fox,782.3858421
+2253,Tyler Granger,Nicholls State University,782.2148822
+2254,Josh Oeters,Toledo,782.1851112
+2255,Angel Salazar,Grand Canyon,782.1002875
+2256,Patrick Crowley,Canisius,781.6729103
+2257,David Zavala,Sam Houston St.,781.6398822
+2258,Andrew Wolfert,Fresno Pacific,781.6108421
+2259,Ben Ahlrichs,Northern Iowa,781.5203818
+2260,Carter Persyn,Arkansas,781.3638135
+2261,Kaleb Chanet,New Orleans,781.0898822
+2262,Nicholas Ackerman,Una.,781.0645531
+2263,Miles Owens,William and Mary,780.9805125
+2264,Mario Ramirez,Cal St. Northridge,780.9252875
+2265,Vincent Orta,Mt. SAC,780.8608421
+2266,Chance Lamberth,Northeastern,780.6450973
+2267,Richie Kasper,Elon,780.58005
+2268,Andrew Gandy,Texas A&M-CC,780.5648822
+2269,Paul Buckingham,Simon Fraser,780.1358421
+2270,Landon Melling,Oakland,780.0601112
+2271,Owen Buck,Virginia Tech,779.7888135
+2272,Evan Kottsick,North Dakota State,779.7703818
+2273,Sean Sullivan,Fordham,779.6479103
+2274,Leo Michel,Sam Houston St.,779.5898822
+2275,Jaymee Domoney,Charleston Southern,779.5892472
+2276,Eric Baugh,Butler,779.4799046
+2277,Rylan Larsen,George Fox,779.4358421
+2278,Ben Shaw,Idaho,779.3502875
+2279,Brian Cave,UMBC,779.2895531
+2280,Ian Ritchie,Boston College,779.2450973
+2281,Drew Cummings,Abilene Christian,779.1648822
+2282,Chandler Sullivan,New Orleans,778.7648822
+2283,Brendon Henkel,George Fox,778.7608421
+2284,Lincoln Colby,Unattached,778.6241167
+2285,Matthew Anciaux,Grand Canyon,778.4252875
+2286,Mark Provenzo,Duquesne,778.2388135
+2287,Jonas Enders,Unattached,778.1358421
+2288,Zack Snider,Wisconsin,778.1055125
+2289,Kit Carter,UC Irvine,778.0002875
+2290,Panth Patel,Johns Hopkins,777.8700973
+2291,D'Andre Mighty,Arkansas-Pine Bluff,777.7148822
+2292,Finbarr Warren,George Mason,777.5395531
+2293,Ethan Samuels,Unattached,777.5358421
+2294,Tom Breuckman,South Dakota St.,777.4938372
+2295,Akeem Marshall,Arkansas-Pine Bluff,777.4398822
+2296,Pedro Montoya,Wichita State,777.3179854
+2297,Christian Fagerlin,Grand Canyon,777.2002875
+2298,Laurel Heath,Arkansas-Pine Bluff,777.1898822
+2299,Wyatt Stahl,Wright State,777.0601112
+2300,Romario Marshall,Arkansas-Pine Bluff,776.9648822
+2301,Garrick Chan,Wolfpack Running Club,776.9608421
+2302,Toshin Agbede,Arkansas-Pine Bluff,776.7648822
+2303,Dustin Worley,Nicholls State University,776.5898822
+2304,Brett Hoerner,New Hampshire,776.5200973
+2305,Gabriel Ramirez,UC Irvine,776.4752875
+2306,Tyran Lyons,Arkansas-Pine Bluff,776.4648822
+2307,Azael Zamora,Unattached,776.4108421
+2308,Cam Carter,Nicholls State University,776.3648822
+2309,Alexander Collier,Arkansas-Pine Bluff,776.2898822
+2310,Teril Cooper,Nicholls State University,776.2398822
+2311,Clay Austell,Alabama,776.2354283
+2312,Braden Stremcha,Montana State,775.9429854
+2313,Zach Strader,Cal St. Monterey Bay,775.8858421
+2314,Ed Belsoi,Cornell,775.8145531
+2315,Christian Stafford,Northeastern,775.6729103
+2316,Psalm Ocampo,Unattached,775.3858421
+2317,Andrew Sell,Penn State,775.2138135
+2318,Sawyer Maher,Boston College,775.1950973
+2319,Michael Vitucci,Cincinnati,775.1851112
+2320,Seth Garcia,Fresno Pacific,774.9108421
+2321,David Hidalgo,Cal St. Northridge,774.9002875
+2322,Robby Foster,Cal St. Northridge,774.7252875
+2323,Colby Harper,George Fox,774.4608421
+2324,Christian Hernandez,UC Irvine,774.3502875
+2325,Ignacio Veloz Bonilla,Valparaiso,774.2851112
+2326,Christian Wehrli,Cal St. Fullerton,774.2252875
+2327,John Spinelli,Monmouth,774.1145531
+2328,Israel Haik,LA Harbor,774.0358421
+2329,Joey Eovaldi,Syracuse,773.8950973
+2330,James Draney,Marist,773.7229103
+2331,Davis Stockwell,Georgia,773.6532254
+2332,Stewart Fernandez,Fresno Pacific,773.6358421
+2333,Adam Fraeyman,Detroit Mercy,773.4101112
+2334,Derek Tao,Unattached,773.2608421
+2335,Anthony Salgado,San Bernardino Valley,772.9108421
+2336,Ian Moini,North Carolina,772.6200973
+2337,Zack Kovar,UTSA,772.5858421
+2338,Cameron Starr,Quinnipiac,772.4395531
+2339,Eric Clay,Northeastern,772.4104344
+2340,Logan Phillips,Cal St. Monterey Bay,772.3108421
+2341,William Hare,Penn,772.2888135
+2342,Humberto Guzman,San Bernardino Valley,772.0608421
+2343,Amjed Aboukhadijeh,Syria National Team,771.8358421
+2344,Robert Guidicipietro,Wagner,771.7729103
+2345,Brett Lombardi,Unattached,771.6358421
+2346,Jeffory Phelps,San Bernardino Valley,771.4608421
+2347,Alex Jackson,Northern Iowa,771.3953818
+2348,Joseph Silva,Cal St. Monterey Bay,771.3108421
+2349,Antonio Hernandez,Unattached,771.1858421
+2350,Fernando Vidrio,San Bernardino Valley,771.0858421
+2351,Michael Ha,Unattached,771.0108421
+2352,Isaac Verduzco,LA Harbor,770.9608421
+2353,Nickolas Rahawi,Cal St. Monterey Bay,770.9358421
+2354,Spencer Carmen,Eastern Kentucky,770.8638135
+2355,Zach Birdsall,Northern Kentucky,770.38005
+2356,Zachary Pettinga,Oakland,770.1601112
+2357,Maxwell Ireland,New Hampshire,770.1450973
+2358,Nick Cipolla,Stony Brook,769.1645531
+2359,Greg Pelose,Boston U.,768.9450973
+2360,Aaron Willingham,Maine,767.9479103
+2361,Ben Osipow,Boston College,767.7700973
+2362,Brandon Phillips,Cornell,767.5645531
+2363,Dawson Hood,Evansville,767.3101112
+2364,Finn Gessner,Wisconsin,766.9562404
+2365,Jack Slagle,Nebraska,766.9179854
+2366,Derek Rink,Loyola (Ill.),766.6703818
+2367,Tanner Mathes,Wright State,766.6601112
+2368,Ryan Gillooly,UMass Lowell,766.6200973
+2369,Paul Dellinger,Duke,766.2555125
+2370,Aaron Fullenkamp,Wright State,766.0351112
+2371,Matthew Goyden,Binghamton,765.9645531
+2372,Marcelo Rocha,Providence,765.9440645
+2373,Michael Zedan,Ohio State,765.7179854
+2374,Will Eaton,Dartmouth,765.4950973
+2375,Derek Steinke,Wright State,765.4351112
+2376,Nate Mallue,Ohio,765.4138135
+2377,Ryan Schwab,Detroit Mercy,764.8601112
+2378,Steven Fiumefreddo,Hofstra,764.3895531
+2379,Jordan Carpenter,Evansville,764.3101112
+2380,Henry Burton,Canisius,764.2229103
+2381,Dylan Carmack,Davidson,763.98005
+2382,Ricky Kuciemba,Idaho State,763.8555125
+2383,Brian Stubelt,Toledo,763.7851112
+2384,Avery Lederer,Lehigh,763.3200973
+2385,Corbin Healey,Toledo,763.2851112
+2386,Gerard D'Ambrosio,American,762.8395531
+2387,Kevin Monogue,Penn,762.8388135
+2388,Stanley Chepchieng,Evansville,762.8101112
+2389,Curtis Reed,SE Missouri,762.7035222
+2390,Richard Grudzwick,Central Connecticut,762.3729103
+2391,Kalen Ochs,Evansville,762.3601112
+2392,Logan Broedner,Boston U.,762.2700973
+2393,Dray Carson,Wichita State,762.1929854
+2394,Ryan Parson,UMKC,762.1703818
+2395,Matt Stark,Idaho State,761.6799429
+2396,Connor Hickey,Valparaiso,761.5351112
+2397,Jake Avery,Cornell,761.3145531
+2398,Kalin Petrov,UMass Amherst,761.2450973
+2399,Kyle Schwieman,Oakland,761.1601112
+2400,Kyle Mastin,Northern Kentucky,760.90505
+2401,Benjamin Bowers,Wright State,760.8101112
+2402,Logan Murray,Northern Iowa,760.7203818
+2403,William Anderson,North Carolina St.,760.4562404
+2404,Reilly Bloomer,Georgetown,760.3638135
+2405,Dean Yost,New Hampshire,760.2450973
+2406,Enrique Hendrix,Evansville,760.1851112
+2407,Scott Smith,Detroit Mercy,759.9101112
+2408,George Lewis,Davidson,759.551283
+2409,Kieran Ungemach,Elon,759.40505
+2410,Brian Keller,Northeastern,759.2450973
+2411,Michael Greeley,Detroit Mercy,759.2351112
+2412,Graham Baird,Iona,759.1638135
+2413,Carson Kline,Evansville,759.0601112
+2414,Matthew Gibbons,Toledo,758.6851112
+2415,Ben Bunch,St. Joseph's (Pa.),758.3395531
+2416,Phillip Demers,UMass Lowell,758.2700973
+2417,Jaron Hamilton,Central Arkansas,757.9406272
+2418,Connor White,Elon,757.90505
+2419,Lucas Lingle,Western Illinois,757.8953818
+2420,Julien Magallanes,Louisville,757.8429854
+2421,Chris Gish,Vermont,757.3200973
+2422,Nasir Gibson,UMass Amherst,756.9729103
+2423,Matthew Kane,UMBC,756.8895531
+2424,Ray Sellaro,Penn,756.8388135
+2425,Will Jones,Davidson,756.43005
+2426,John Fish,Harvard,756.3950973
+2427,Trevor Dominy,Charleston Southern,756.2202819
+2428,Patrick Sutphin,Richmond,756.0596219
+2429,Travis Thorne,Arizona,755.7679854
+2430,Cole Dowdy,Kentucky,755.7138135
+2431,Cornelius Kiprotich,Texas Tech,755.6062404
+2432,Brian Arita,Lehigh,755.4950973
+2433,Bryan Cabral,Monmouth,755.4645531
+2434,Kyle Cass,Drake,755.1703818
+2435,Chris Skelly,UMass Lowell,755.0555125
+2436,Jack Kalil,UMass Lowell,754.6200973
+2437,Michael Widmann,Missouri,754.6138135
+2438,Shane Ramdeo,Temple,754.0645531
+2439,Lamek Keditukei,Utah Valley,754.0555125
+2440,Abdinasir Abdi,South Dakota,753.8453818
+2441,Ben Lanza,Quinnipiac,753.7700973
+2442,Tanner Dowdy,Kentucky,753.5388135
+2443,Palmer Weimann,Marist,753.4979103
+2444,Daniel Muldoon,Buffalo,752.6895531
+2445,Ryan Moosbrugger,Col. of Charleston,752.15505
+2446,John Crawford,New Hampshire,752.1450973
+2447,Shem Kemboi,Arizona,751.9179854
+2448,Aidan Sullivan,New Hampshire,751.7979103
+2449,Kyle Garcia,Lamar,751.5608188
+2450,Tanis Baldwin,North Carolina St.,751.3493984
+2451,Caleb McCurdy,Cornell,751.3395531
+2452,Kennan Schrag,Washington St.,751.1562404
+2453,Matthew Russell,East Carolina,750.78005
+2454,Kevin Peters,Johns Hopkins,750.6200973
+2455,Alex Lucking,Richmond,750.2055125
+2456,Alex Moen,Wichita State,750.1179854
+2457,Steven Sum,Princeton,750.0145531
+2458,Alexander Horgan,Boston College,749.8950973
+2459,Jared Yabu,Brown,749.4888135
+2460,Tyler Fish,Col. of Charleston,749.43005
+2461,Chris Theodore,Duke,749.3055125
+2462,Collin Price,Harvard,749.2429854
+2463,Michael Kolor,Harvard,749.1950973
+2464,Walker Miller,UMKC,748.7703818
+2465,Colin Gallagher,St. Joseph's (Pa.),748.7145531
+2466,Ian Steller,Providence,748.5200973
+2467,Charles Ragone,Albany,748.4229103
+2468,Ayrton Ledesma,Oklahoma State,748.1729032
+2469,Jack Hilton,Quinnipiac,747.8700973
+2470,Lucas Sidle,VCU,746.75505
+2471,Jacob Ondash,Akron,746.7138135
+2472,Lenny Baumann,Tennessee-Martin,746.6662307
+2473,Daylan Quinn,UMKC,746.3453818
+2474,Michael Weidenbruch,American,746.1395531
+2475,Joseph Stark,Bucknell,746.0700973
+2476,Jack Gooch,Lamar,745.8555125
+2477,Stephen Mugeche,Missouri,745.8388135
+2478,Billy McDevitt,Penn State,745.8373406
+2479,Marcel Aubry,Boston U.,745.5200973
+2480,Sam Beattie,Col. of Charleston,745.45505
+2481,Carlos Zervigon,Tulane,745.2429854
+2482,Ryan Miele,Bucknell,744.9950973
+2483,Jack Ikenberry,George Mason,744.8895531
+2484,Benjamin Littmann,Bucknell,744.4950973
+2485,Jacob Underwood,Liberty,744.4929854
+2486,Michael Pieterse,Coastal Carolina,744.18005
+2487,Chris Joseph,Illinois-Chicago,744.0203818
+2488,Nate Sloan,Pittsburgh,743.9950973
+2489,Chris Thoms,UMBC,743.6645531
+2490,Zach Beston,Boston College,743.5200973
+2491,John Jaynes,Ohio,743.3138135
+2492,Caleb Hummer,Illinois,743.2812404
+2493,Evan Minor,Bucknell,743.0700973
+2494,Connor Schank,North Dakota State,742.8953818
+2495,Ronan O'Shea,Brown,742.6450973
+2496,Jake Heinauer,Duquesne,742.5138135
+2497,James Hoffman,Monmouth,742.4645531
+2498,Scotti Hamilton,Boston U.,742.3929854
+2499,Ben Ruffing,Boston College,742.2450973
+2500,Robert Tuzzio,Holy Cross,741.9479103
+2501,Matthew Greatorex,UMass Lowell,741.8700973
+2502,Mihret Coulter,Charlotte,741.5562404
+2503,Aksel Laudon,Boston U.,741.5200973
+2504,Dylan Servos,Buffalo,741.2895531
+2505,Isaac Grosner,Vermont,741.1950973
+2506,Chris Durr,SE Missouri,740.9316643
+2507,Matt McGoey,Pittsburgh,740.8950973
+2508,Jacob St. Onge,Quinnipiac,740.6200973
+2509,Ryan Eastman,Nebraska,740.5179854
+2510,Dylan Mclaughlin,New Hampshire,740.3700973
+2511,Andrew Goldman,Virginia Tech,740.2638135
+2512,Andrew Bearkland,Stony Brook,740.1395531
+2513,Matthew Allen,Quinnipiac,739.9450973
+2514,Tristan Tapia,Northern Kentucky,739.88005
+2515,Matthew Walker,New Hampshire,739.7700973
+2516,Michael Duggan,Northeastern,739.4950973
+2517,Phillip Trajkovski,New Hampshire,739.3950973
+2518,Matthew Burke,Quinnipiac,739.3200973
+2519,Joseph Walsh,UMass Lowell,739.2700973
+2520,Jeffrey Venter,Quinnipiac,739.2450973
+2521,Joe Lazzaro,Quinnipiac,739.2450973
+2522,James Kosbar,SE Missouri,739.1857191
+2523,Ben Woodward,Rider,739.0145531
+2524,Noah Wallace,Army West Point,738.8229103
+2525,Hugh Nicklason,San Francisco,738.2679854
+2526,Jack Good,Lehigh,737.9145531
+2527,Danny Galvin,Iona,737.6138135
+2528,David Whitfield,Virginia Tech,737.0138135
+2529,Josh Fontaine,UMass Lowell,736.9805125
+2530,Josh Klein,Wichita State,736.8429854
+2531,Paul Markovina,Hofstra,736.8395531
+2532,Ian Russ,Providence,736.8312404
+2533,Christopher Conrad,Missouri,736.4388135
+2534,Nick Regas,Ohio State,736.3929854
+2535,Griffin Bailey,SE Missouri,735.9055125
+2536,Griffin McCauley,Brown,735.8888135
+2537,Miguel Dickenson,American,735.7895531
+2538,Seth Iverson,South Dakota,735.7203818
+2539,Thomas Cain,Central Arkansas,735.5679854
+2540,Andrew Hally,Penn,735.4562404
+2541,Doug Mullen,Coastal Carolina,735.20505
+2542,Steve Bauers,Ohio State,735.1929854
+2543,Daniel Golden,Texas,734.8062404
+2544,Sam McCool,Northern Iowa,734.7953818
+2545,Nathaniel Howe,Binghamton,734.7395531
+2546,Zak Kirk,Eastern Kentucky,734.1812404
+2547,Alexzander Schell,Tennessee-Martin,733.9179854
+2548,Lachlan Moore,UMKC,733.8953818
+2549,Matthew Agosta,Ohio,733.5138135
+2550,Ryan Matson,Arizona,733.3929854
+2551,Xavier Lechleitner,Drake,733.0203818
+2552,Tom Coe,Tulane,732.9679854
+2553,Charles Taubl,Central Connecticut,732.8729103
+2554,Daniel Gahagan,Binghamton,732.7145531
+2555,Michael Wilson,New Mexico,732.4929854
+2556,Elliot Dee,Iona,732.4062404
+2557,JAKE McENEANEY,UNA UNC,732.3888135
+2558,Joshua Cheruyot,Tulane,732.3679854
+2559,Timothy Dye,Tennessee-Martin,732.2679854
+2560,Luke Laverdiere,Harvard,732.1929854
+2561,James Hill III,Tulane,732.1429854
+2562,Ben Flowers,Wichita State,732.1179854
+2563,Alex Lomong,Ohio State,732.1179854
+2564,Thierry Siewe Yanga,Virginia Tech,732.0638135
+2565,Kerry Gschwendtner,Bradley,731.8562404
+2566,Sam Costa,Georgia Tech,731.7638135
+2567,Paul Housey,George Washington,731.7395531
+2568,Landin Delaney,Bucknell,731.4888135
+2569,Jason Cousineau,St. Francis (N.Y.),731.4229103
+2570,Alec Danner,Bradley,731.3312404
+2571,ISAIAH CLAIBORNE,UNA PSU,731.2388135
+2572,Jack Bradley,Georgia,731.2305125
+2573,Seth Gard,Ohio,731.0138135
+2574,Michael Benoit,Texas Tech,730.8312404
+2575,Zak Ahmad,Penn,730.8138135
+2576,Michael Villagomaz,VCU,730.80505
+2577,Sean Egan,Temple,730.7895531
+2578,Nejc Ferle,Lamar,730.7555125
+2579,Czar Tarr,Ohio,730.6388135
+2580,Brian Warsh,Iona,730.4888135
+2581,JACOB McKENNA,UNA,730.3638135
+2582,Armstrong Noonan,Yale,730.1805125
+2583,Dan Uhranowsky,Pittsburgh,730.1138135
+2584,NICK SUMMERLIN,UNA,730.1138135
+2585,James Stockings,Lamar,730.0305125
+2586,Corey Kumamoto,Holy Cross,729.9979103
+2587,Conor Naughton,Central Michigan,729.9055125
+2588,Aidan Caggiano,American,729.8645531
+2589,Will Laird,Yale,729.8055125
+2590,Nathan Wendt,South Dakota,729.7703818
+2591,Michael Flanagan,Appalachian State,729.75505
+2592,Trevor Falco,SE Missouri,729.6305125
+2593,Nick Yaeger,SE Missouri,729.5805125
+2594,Ty Brownlow,Georgetown,729.4812404
+2595,Grant LaSelle,Texas Tech,729.0812404
+2596,Corey Moody,Western Illinois,729.0203818
+2597,Hugh O'Connor,UMBC,728.9645531
+2598,Victor Ortiz Rivera,Albany,728.5979103
+2599,Matthew Brown,Rider,728.0895531
+2600,Jacob Simmons,South Dakota,727.5953818
+2601,Cole Sandvold,Princeton,727.2395531
+2602,Stephen Alvarez,Texas Tech,726.8062404
+2603,Michael Pavicic,Monmouth,726.4145531
+2604,Dane Krchnavy,Sacred Heart,725.8729103
+2605,Jacob Hernandez,San Francisco,725.8562404
+2606,Wyatt McIntrye,Illinois,725.6312404
+2607,Bradley Arbaugh,UMBC,725.6145531
+2608,Joseph Wilson,Charlotte,725.5062404
+2609,Brandon Parrado,New Mexico,725.4812404
+2610,Archie Blaes,VCU,724.85505
+2611,Paul Catalano,Stony Brook,724.8145531
+2612,Josh Sanders,UMKC,724.4453818
+2613,Daniel Dombrowiecki,Monmouth,724.0395531
+2614,Ross Smetzer,Western Illinois,723.3203818
+2615,Evan Kaiser,Temple,723.2895531
+2616,Jason Linendoll,Siena,723.1979103
+2617,Caleb Brown,American,722.5645531
+2618,Matthew McGovern,Bryant,721.8979103
+2619,Tosin Ibironke,Hofstra,721.8645531
+2620,Cole Streich,South Dakota,721.8203818
+2621,Andrew Avery,Coastal Carolina,721.30505
+2622,Lucas Howett,Western Illinois,720.9453818
+2623,Matthew Roma,Fordham,720.6229103
+2624,Martin Skucas,Illinois-Chicago,720.5453818
+2625,Kevin Van Vorst,Cornell,720.5395531
+2626,Connor McMannes,North Dakota,720.1703818
+2627,Taylor Baranoski,UMBC,719.9145531
+2628,James Maguire,Drake,719.8203818
+2629,Michael Trost,North Dakota,719.4953818
+2630,Matt Farrell,Monmouth,719.3145531
+2631,Max Lustig,American,718.7395531
+2632,Timothy Dunham,North Dakota,718.6703818
+2633,Quintin Thurman,Western Illinois,717.9203818
+2634,Cole Stenseth,North Dakota,717.7953818
+2635,Brendan Foley,Stony Brook,717.6395531
+2636,Alec Scott,Western Illinois,717.6203818
+2637,Zachary King,North Dakota,717.5703818
+2638,Noah Schiller,North Dakota,717.5453818
+2639,Angel Yescas,Western Illinois,717.5453818
+2640,Sam Earley,La Salle,717.1145531
+2641,Daniel Robinson,George Washington,716.6145531
+2642,Isaiah Jean-Baptiste,Rider,716.1395531
+2643,Jackson Wedge,Col. of Charleston,715.93005
+2644,Jon Messler,Albany,715.7479103
+2645,Kevin Heredia,Rider,715.6895531
+2646,Miles Smith,UMBC,715.2645531
+2647,Adam VanValkenburgh,Binghamton,714.8645531
+2648,Patrick Halloran,Central Connecticut,714.5729103
+2649,John Pagliaro,American,714.4895531
+2650,Ben Jacobson,Princeton,714.1395531
+2651,Evan Peirce,Col. of Charleston,713.90505
+2652,Sam Brosh,UMBC,713.8145531
+2653,Peter Antonetti,UMBC,713.5145531
+2654,Luke Myers,Colgate,713.4229103
+2655,Will Spector,Rider,713.2395531
+2656,Scott Ruskan,Rider,712.7395531
+2657,Dante Perez,Hofstra,712.5145531
+2658,Marc Meltzer,Hofstra,712.3145531
+2659,Andrew Lazorcak,Rider,712.1395531
+2660,Eric Collado,Rider,711.9895531
+2661,Rani Marhaba,Binghamton,711.8645531
+2662,Mike Mazzei,Rider,711.7645531
+2663,Grayson Hoteling,Binghamton,711.6895531
+2664,Conor Duffy,Rider,711.6395531
+2665,John McMahon,Quinnipiac,711.6145531
+2666,Jake Zappala,Rider,711.6145531
+2667,Jake Carver,Davidson,711.55505
+2668,Keith Prive,Northern Kentucky,711.00505
+2669,Nick Rispoli,Fairfield,710.0979103
+2670,Noah Tellier,Bryant,709.0229103
+2671,Andrew Corbett,Holy Cross,706.9479103
+2672,Blake Rigdon,Northern Kentucky,706.48005
+2673,Alexander Saveliev,New Hampshire,705.9479103
+2674,Mathew Evans,Coastal Carolina,705.70505
+2675,Kiro Morkos,Presbyterian,705.0691902
+2676,Lucas Culley,Colgate,703.9729103
+2677,Scott Daly,Fairfield,702.0979103
+2678,Robert Moore,Central Connecticut,700.3229103
+2679,Ryan Curran,Colgate,699.4729103
+2680,Ben Breton,Fairfield,698.6229103
+2681,Dhahran Velasquez,UMass Lowell,697.7979103
+2682,Jason Dolan,Bryant,696.9979103
+2683,Zack Faljean,St. Francis (N.Y.),696.2229103
+2684,Joseph Leland,Holy Cross,695.4729103
+2685,Karter Seitz,Holy Cross,694.7229103
+2686,Tommy Williams,Colgate,693.9979103
+2687,Joseph Doerr,Holy Cross,693.2979103
+2688,Dillon Aryeh,Colgate,692.6229103
+2689,Nicholas Pandolfo,Sacred Heart,691.9729103
+2690,Willy Pierce,Hartford,691.3479103
+2691,Connor Secora,Fairfield,690.7479103
+2692,Julio Arredondo,Central Connecticut,690.1479103
+2693,Brian Cook,Fordham,689.5729103
+2694,Patrick Donahue,Fordham,688.4979103
+2695,Nurlan Herburger,Hartford,687.9979103
+2696,Mike Dzubia,Fairfield,687.4979103
+2697,Brian Lafleche,Colgate,687.0229103
+2698,Corey Picard,Sacred Heart,686.5729103
+2699,Timothy Salit,Fairfield,685.7479103
+2700,Ryan Corbett,Sacred Heart,685.3729103
+2701,brandon hall,Fordham,685.0229103
+2702,Jay Bendlin,Albany,684.6729103
+2703,Wesley Moody,Hartford,684.3479103
+2704,Jordan Dagrin,Bryant,684.0479103
+2705,Nicholas O'Brien,Hartford,683.7729103
+2706,Robert McCabe,Bryant,683.5229103
+2707,Moetiz Shilleh,Sacred Heart,683.2729103
+2708,Chris Fischer,Fairfield,683.0479103
+2709,Scott Curtis,Sacred Heart,682.8479103
+2710,Paul Henry,Canisius,682.5229103
+2711,Alexander Duncan,Bryant,682.3979103
+2712,Christopher Wrenn,Bryant,682.2979103
+2713,Brady Pearlstein,Colgate,682.1979103
+2714,Sean Weir,Wagner,682.1229103
+2715,Gavin Thurlow,Sacred Heart,682.0729103
+2716,Orville Dixon,St. Francis (N.Y.),682.0479103
+2717,Timothy McNamara,Central Connecticut,682.0479103
